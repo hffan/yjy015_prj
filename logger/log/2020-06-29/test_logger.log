@@ -1,0 +1,1 @@
+[root][2020-06-29 12:32:47][2020-06-29 12:32:47][   2918052]:  SELECT * FROM element_kp WHERE category_abbr_en = 'SWPC_latest_DGD' and utc_time BETWEEN '2020-06-29 03:00:00' and '2020-06-29 03:00:00'

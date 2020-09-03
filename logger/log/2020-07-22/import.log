@@ -1,0 +1,161 @@
+[root][2020-07-22 16:39:42][2020-07-22 16:39:42][     46529]:  /home/YJY015/import/2020-07-22.zip
+[root][2020-07-22 16:39:42][2020-07-22 16:39:42][     46529]:  record_data finish.
+[root][2020-07-22 16:39:42][2020-07-22 16:39:42][     46529]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-22 16:39:42][2020-07-22 16:39:42][     46529]:  record_alert finish.
+[root][2020-07-22 16:39:42][2020-07-22 16:39:42][     46529]:  report_file_info_json文件不存在,没有导出report_file_info信息,report_file_info_json = 
+[root][2020-07-22 16:39:42][2020-07-22 16:39:42][     46529]:  /home/YJY015/json/2020-07-22/element_ap.json finish.
+[root][2020-07-22 16:39:42][2020-07-22 16:39:42][     46529]:  /home/YJY015/json/2020-07-22/element_goes_ie.json finish.
+[root][2020-07-22 16:39:42][2020-07-22 16:39:42][     46529]:  /home/YJY015/json/2020-07-22/element_goes_ip.json finish.
+[root][2020-07-22 16:39:42][2020-07-22 16:39:42][     46529]:  /home/YJY015/json/2020-07-22/element_goes_mag.json finish.
+[root][2020-07-22 16:39:42][2020-07-22 16:39:42][     46529]:  /home/YJY015/json/2020-07-22/element_goes_xr.json finish.
+[root][2020-07-22 16:39:42][2020-07-22 16:39:42][     46529]:  /home/YJY015/json/2020-07-22/element_kp.json finish.
+[root][2020-07-22 16:39:42][2020-07-22 16:39:42][     46529]:  /home/YJY015/json/2020-07-22/event_configuration.json finish.
+[root][2020-07-22 16:44:12][2020-07-22 16:44:12][     67465]:  /home/YJY015/import/2020-07-22.zip
+[root][2020-07-22 16:44:12][2020-07-22 16:44:12][     67465]:  record_data finish.
+[root][2020-07-22 16:44:12][2020-07-22 16:44:12][     67465]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-22 16:44:12][2020-07-22 16:44:12][     67465]:  record_alert finish.
+[root][2020-07-22 16:44:12][2020-07-22 16:44:12][     67465]:  report_file_info_json文件不存在,没有导出report_file_info信息,report_file_info_json = 
+[root][2020-07-22 16:44:12][2020-07-22 16:44:12][     67465]:  /home/YJY015/json/2020-07-22/element_ap.json finish.
+[root][2020-07-22 16:44:12][2020-07-22 16:44:12][     67465]:  /home/YJY015/json/2020-07-22/element_goes_ie.json finish.
+[root][2020-07-22 16:44:12][2020-07-22 16:44:12][     67465]:  /home/YJY015/json/2020-07-22/element_goes_ip.json finish.
+[root][2020-07-22 16:44:12][2020-07-22 16:44:12][     67465]:  /home/YJY015/json/2020-07-22/element_goes_mag.json finish.
+[root][2020-07-22 16:44:12][2020-07-22 16:44:12][     67465]:  /home/YJY015/json/2020-07-22/element_goes_xr.json finish.
+[root][2020-07-22 16:44:12][2020-07-22 16:44:12][     67465]:  /home/YJY015/json/2020-07-22/element_kp.json finish.
+[root][2020-07-22 16:44:12][2020-07-22 16:44:13][     67465]:  /home/YJY015/json/2020-07-22/event_configuration.json finish.
+[root][2020-07-22 16:46:41][2020-07-22 16:46:41][     78484]:  /home/YJY015/test/2020-07-22.zip
+[root][2020-07-22 16:46:41][2020-07-22 16:46:42][     78484]:  record_data finish.
+[root][2020-07-22 16:46:41][2020-07-22 16:46:42][     78484]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-22 16:46:41][2020-07-22 16:46:42][     78484]:  record_alert finish.
+[root][2020-07-22 16:46:41][2020-07-22 16:46:42][     78484]:  report_file_info_json文件不存在,没有导出report_file_info信息,report_file_info_json = 
+[root][2020-07-22 16:46:41][2020-07-22 16:46:42][     78484]:  /home/YJY015/json/2020-07-22/element_ap.json finish.
+[root][2020-07-22 16:46:41][2020-07-22 16:46:42][     78484]:  /home/YJY015/json/2020-07-22/element_goes_ie.json finish.
+[root][2020-07-22 16:46:41][2020-07-22 16:46:42][     78484]:  /home/YJY015/json/2020-07-22/element_goes_ip.json finish.
+[root][2020-07-22 16:46:41][2020-07-22 16:46:42][     78484]:  /home/YJY015/json/2020-07-22/element_goes_mag.json finish.
+[root][2020-07-22 16:46:41][2020-07-22 16:46:42][     78484]:  /home/YJY015/json/2020-07-22/element_goes_xr.json finish.
+[root][2020-07-22 16:46:41][2020-07-22 16:46:42][     78484]:  /home/YJY015/json/2020-07-22/element_kp.json finish.
+[root][2020-07-22 16:46:41][2020-07-22 16:46:42][     78484]:  /home/YJY015/json/2020-07-22/event_configuration.json finish.
+[root][2020-07-22 16:49:48][2020-07-22 16:49:48][     92398]:  /home/YJY015/test/2020-07-22.zip
+[root][2020-07-22 16:49:48][2020-07-22 16:49:49][     92398]:  record_data finish.
+[root][2020-07-22 16:49:48][2020-07-22 16:49:49][     92398]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-22 16:49:48][2020-07-22 16:49:49][     92398]:  record_alert finish.
+[root][2020-07-22 16:49:48][2020-07-22 16:49:49][     92398]:  report_file_info_json文件不存在,没有导出report_file_info信息,report_file_info_json = 
+[root][2020-07-22 16:49:48][2020-07-22 16:49:49][     92398]:  /home/YJY015/json/2020-07-22/element_ap.json finish.
+[root][2020-07-22 16:49:48][2020-07-22 16:49:49][     92398]:  /home/YJY015/json/2020-07-22/element_goes_ie.json finish.
+[root][2020-07-22 16:49:48][2020-07-22 16:49:49][     92398]:  /home/YJY015/json/2020-07-22/element_goes_ip.json finish.
+[root][2020-07-22 16:49:48][2020-07-22 16:49:49][     92398]:  /home/YJY015/json/2020-07-22/element_goes_mag.json finish.
+[root][2020-07-22 16:49:48][2020-07-22 16:49:49][     92398]:  /home/YJY015/json/2020-07-22/element_goes_xr.json finish.
+[root][2020-07-22 16:49:48][2020-07-22 16:49:49][     92398]:  /home/YJY015/json/2020-07-22/element_kp.json finish.
+[root][2020-07-22 16:49:48][2020-07-22 16:49:50][     92398]:  /home/YJY015/json/2020-07-22/event_configuration.json finish.
+[root][2020-07-22 16:51:14][2020-07-22 16:51:14][     98345]:  /home/YJY015/test/2020-07-22.zip
+[root][2020-07-22 16:52:10][2020-07-22 16:52:10][    102183]:  /home/YJY015/test/2020-07-22.zip
+[root][2020-07-22 16:53:17][2020-07-22 16:53:17][    106681]:  /home/YJY015/test/2020-07-22.zip
+[root][2020-07-22 16:55:25][2020-07-22 16:55:25][    115304]:  /home/YJY015/test/2020-07-22.zip
+[root][2020-07-22 16:55:25][2020-07-22 16:55:25][    115304]:  record_data finish.
+[root][2020-07-22 16:55:25][2020-07-22 16:55:25][    115304]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-22 16:55:25][2020-07-22 16:55:25][    115304]:  record_alert finish.
+[root][2020-07-22 16:55:25][2020-07-22 16:55:25][    115304]:  report_file_info_json文件不存在,没有导出report_file_info信息,report_file_info_json = 
+[root][2020-07-22 16:55:25][2020-07-22 16:55:25][    115304]:  /home/YJY015/json/2020-07-22/element_ap.json finish.
+[root][2020-07-22 16:55:25][2020-07-22 16:55:25][    115304]:  /home/YJY015/json/2020-07-22/element_goes_ie.json finish.
+[root][2020-07-22 16:55:25][2020-07-22 16:55:25][    115304]:  /home/YJY015/json/2020-07-22/element_goes_ip.json finish.
+[root][2020-07-22 16:55:25][2020-07-22 16:55:25][    115304]:  /home/YJY015/json/2020-07-22/element_goes_mag.json finish.
+[root][2020-07-22 16:55:25][2020-07-22 16:55:25][    115304]:  /home/YJY015/json/2020-07-22/element_goes_xr.json finish.
+[root][2020-07-22 16:55:25][2020-07-22 16:55:25][    115304]:  /home/YJY015/json/2020-07-22/element_kp.json finish.
+[root][2020-07-22 16:55:25][2020-07-22 16:55:26][    115304]:  /home/YJY015/json/2020-07-22/event_configuration.json finish.
+[root][2020-07-22 17:04:10][2020-07-22 17:04:10][    149582]:  /home/YJY015/test/2020-07-22.zip
+[root][2020-07-22 17:04:40][2020-07-22 17:04:40][    151393]:  /home/YJY015/test/2020-07-22.zip
+[root][2020-07-22 17:04:40][2020-07-22 17:04:42][    151393]:  record_data finish.
+[root][2020-07-22 17:04:40][2020-07-22 17:04:42][    151393]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-22 17:04:40][2020-07-22 17:04:42][    151393]:  record_alert finish.
+[root][2020-07-22 17:04:40][2020-07-22 17:04:42][    151393]:  report_file_info_json文件不存在,没有导出report_file_info信息,report_file_info_json = 
+[root][2020-07-22 17:04:40][2020-07-22 17:04:42][    151393]:  /home/YJY015/json/2020-07-22/element_ap.json finish.
+[root][2020-07-22 17:04:40][2020-07-22 17:04:42][    151393]:  /home/YJY015/json/2020-07-22/element_goes_ie.json finish.
+[root][2020-07-22 17:04:40][2020-07-22 17:04:42][    151393]:  /home/YJY015/json/2020-07-22/element_goes_ip.json finish.
+[root][2020-07-22 17:04:40][2020-07-22 17:04:42][    151393]:  /home/YJY015/json/2020-07-22/element_goes_mag.json finish.
+[root][2020-07-22 17:04:40][2020-07-22 17:04:42][    151393]:  /home/YJY015/json/2020-07-22/element_goes_xr.json finish.
+[root][2020-07-22 17:04:40][2020-07-22 17:04:42][    151393]:  /home/YJY015/json/2020-07-22/element_kp.json finish.
+[root][2020-07-22 17:04:40][2020-07-22 17:04:42][    151393]:  /home/YJY015/json/2020-07-22/event_configuration.json finish.
+[root][2020-07-22 17:06:41][2020-07-22 17:06:41][    159066]:  /home/YJY015/test/2020-07-22.zip
+[root][2020-07-22 17:06:41][2020-07-22 17:06:42][    159066]:  record_data finish.
+[root][2020-07-22 17:06:41][2020-07-22 17:06:42][    159066]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-22 17:06:41][2020-07-22 17:06:42][    159066]:  record_alert finish.
+[root][2020-07-22 17:06:41][2020-07-22 17:06:42][    159066]:  report_file_info_json文件不存在,没有导出report_file_info信息,report_file_info_json = 
+[root][2020-07-22 17:06:41][2020-07-22 17:06:42][    159066]:  /home/YJY015/json/2020-07-22/element_ap.json finish.
+[root][2020-07-22 17:06:41][2020-07-22 17:06:42][    159066]:  /home/YJY015/json/2020-07-22/element_goes_ie.json finish.
+[root][2020-07-22 17:06:41][2020-07-22 17:06:42][    159066]:  /home/YJY015/json/2020-07-22/element_goes_ip.json finish.
+[root][2020-07-22 17:06:41][2020-07-22 17:06:42][    159066]:  /home/YJY015/json/2020-07-22/element_goes_mag.json finish.
+[root][2020-07-22 17:06:41][2020-07-22 17:06:42][    159066]:  /home/YJY015/json/2020-07-22/element_goes_xr.json finish.
+[root][2020-07-22 17:06:41][2020-07-22 17:06:42][    159066]:  /home/YJY015/json/2020-07-22/element_kp.json finish.
+[root][2020-07-22 17:06:41][2020-07-22 17:06:42][    159066]:  /home/YJY015/json/2020-07-22/event_configuration.json finish.
+[root][2020-07-22 17:07:19][2020-07-22 17:07:19][    161468]:  /home/YJY015/test/2020-07-22.zip
+[root][2020-07-22 17:07:57][2020-07-22 17:07:57][    163751]:  /home/YJY015/test/2020-07-22.zip
+[root][2020-07-22 17:07:57][2020-07-22 17:07:58][    163751]:  record_data finish.
+[root][2020-07-22 17:07:57][2020-07-22 17:07:58][    163751]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-22 17:07:57][2020-07-22 17:07:58][    163751]:  record_alert finish.
+[root][2020-07-22 17:07:57][2020-07-22 17:07:58][    163751]:  report_file_info_json文件不存在,没有导出report_file_info信息,report_file_info_json = 
+[root][2020-07-22 17:07:57][2020-07-22 17:07:58][    163751]:  /home/YJY015/json/2020-07-22/element_ap.json finish.
+[root][2020-07-22 17:07:57][2020-07-22 17:07:58][    163751]:  /home/YJY015/json/2020-07-22/element_goes_ie.json finish.
+[root][2020-07-22 17:07:57][2020-07-22 17:07:58][    163751]:  /home/YJY015/json/2020-07-22/element_goes_ip.json finish.
+[root][2020-07-22 17:07:57][2020-07-22 17:07:58][    163751]:  /home/YJY015/json/2020-07-22/element_goes_mag.json finish.
+[root][2020-07-22 17:07:57][2020-07-22 17:07:58][    163751]:  /home/YJY015/json/2020-07-22/element_goes_xr.json finish.
+[root][2020-07-22 17:07:57][2020-07-22 17:07:58][    163751]:  /home/YJY015/json/2020-07-22/element_kp.json finish.
+[root][2020-07-22 17:07:57][2020-07-22 17:07:58][    163751]:  /home/YJY015/json/2020-07-22/event_configuration.json finish.
+[root][2020-07-22 17:08:52][2020-07-22 17:08:52][    167057]:  /home/YJY015/test/2020-07-22.zip
+[root][2020-07-22 17:08:52][2020-07-22 17:08:53][    167057]:  record_data finish.
+[root][2020-07-22 17:08:52][2020-07-22 17:08:53][    167057]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-22 17:08:52][2020-07-22 17:08:53][    167057]:  record_alert finish.
+[root][2020-07-22 17:08:52][2020-07-22 17:08:53][    167057]:  report_file_info_json文件不存在,没有导出report_file_info信息,report_file_info_json = 
+[root][2020-07-22 17:08:52][2020-07-22 17:08:53][    167057]:  /home/YJY015/json/2020-07-22/element_ap.json finish.
+[root][2020-07-22 17:08:52][2020-07-22 17:08:53][    167057]:  /home/YJY015/json/2020-07-22/element_goes_ie.json finish.
+[root][2020-07-22 17:08:52][2020-07-22 17:08:53][    167057]:  /home/YJY015/json/2020-07-22/element_goes_ip.json finish.
+[root][2020-07-22 17:08:52][2020-07-22 17:08:53][    167057]:  /home/YJY015/json/2020-07-22/element_goes_mag.json finish.
+[root][2020-07-22 17:08:52][2020-07-22 17:08:53][    167057]:  /home/YJY015/json/2020-07-22/element_goes_xr.json finish.
+[root][2020-07-22 17:08:52][2020-07-22 17:08:53][    167057]:  /home/YJY015/json/2020-07-22/element_kp.json finish.
+[root][2020-07-22 17:08:52][2020-07-22 17:08:54][    167057]:  /home/YJY015/json/2020-07-22/event_configuration.json finish.
+[root][2020-07-22 17:09:34][2020-07-22 17:09:34][    169570]:  /home/YJY015/test/2020-07-22.zip
+[root][2020-07-22 17:09:34][2020-07-22 17:09:35][    169570]:  record_data finish.
+[root][2020-07-22 17:09:34][2020-07-22 17:09:35][    169570]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-22 17:09:34][2020-07-22 17:09:35][    169570]:  record_alert finish.
+[root][2020-07-22 17:09:34][2020-07-22 17:09:35][    169570]:  report_file_info_json文件不存在,没有导出report_file_info信息,report_file_info_json = 
+[root][2020-07-22 17:09:34][2020-07-22 17:09:35][    169570]:  /home/YJY015/json/2020-07-22/element_ap.json finish.
+[root][2020-07-22 17:09:34][2020-07-22 17:09:35][    169570]:  /home/YJY015/json/2020-07-22/element_goes_ie.json finish.
+[root][2020-07-22 17:09:34][2020-07-22 17:09:35][    169570]:  /home/YJY015/json/2020-07-22/element_goes_ip.json finish.
+[root][2020-07-22 17:09:34][2020-07-22 17:09:35][    169570]:  /home/YJY015/json/2020-07-22/element_goes_mag.json finish.
+[root][2020-07-22 17:09:34][2020-07-22 17:09:35][    169570]:  /home/YJY015/json/2020-07-22/element_goes_xr.json finish.
+[root][2020-07-22 17:09:34][2020-07-22 17:09:35][    169570]:  /home/YJY015/json/2020-07-22/element_kp.json finish.
+[root][2020-07-22 17:09:34][2020-07-22 17:09:36][    169570]:  /home/YJY015/json/2020-07-22/event_configuration.json finish.
+[root][2020-07-22 17:10:05][2020-07-22 17:10:05][    171389]:  /home/YJY015/test/2020-07-22.zip
+[root][2020-07-22 17:10:05][2020-07-22 17:10:06][    171389]:  record_data finish.
+[root][2020-07-22 17:10:05][2020-07-22 17:10:06][    171389]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-22 17:10:05][2020-07-22 17:10:06][    171389]:  record_alert finish.
+[root][2020-07-22 17:10:05][2020-07-22 17:10:06][    171389]:  report_file_info_json文件不存在,没有导出report_file_info信息,report_file_info_json = 
+[root][2020-07-22 17:10:05][2020-07-22 17:10:06][    171389]:  /home/YJY015/json/2020-07-22/element_ap.json finish.
+[root][2020-07-22 17:10:05][2020-07-22 17:10:06][    171389]:  /home/YJY015/json/2020-07-22/element_goes_ie.json finish.
+[root][2020-07-22 17:10:05][2020-07-22 17:10:06][    171389]:  /home/YJY015/json/2020-07-22/element_goes_ip.json finish.
+[root][2020-07-22 17:10:05][2020-07-22 17:10:06][    171389]:  /home/YJY015/json/2020-07-22/element_goes_mag.json finish.
+[root][2020-07-22 17:10:05][2020-07-22 17:10:06][    171389]:  /home/YJY015/json/2020-07-22/element_goes_xr.json finish.
+[root][2020-07-22 17:10:05][2020-07-22 17:10:06][    171389]:  /home/YJY015/json/2020-07-22/element_kp.json finish.
+[root][2020-07-22 17:10:05][2020-07-22 17:10:06][    171389]:  /home/YJY015/json/2020-07-22/event_configuration.json finish.
+[root][2020-07-22 17:11:05][2020-07-22 17:11:05][    174878]:  /home/YJY015/test/2020-07-22.zip
+[root][2020-07-22 17:11:05][2020-07-22 17:11:05][    174878]:  record_data finish.
+[root][2020-07-22 17:11:05][2020-07-22 17:11:05][    174878]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-22 17:11:05][2020-07-22 17:11:05][    174878]:  record_alert finish.
+[root][2020-07-22 17:11:05][2020-07-22 17:11:05][    174878]:  report_file_info_json文件不存在,没有导出report_file_info信息,report_file_info_json = 
+[root][2020-07-22 17:11:05][2020-07-22 17:11:05][    174878]:  /home/YJY015/json/2020-07-22/element_ap.json finish.
+[root][2020-07-22 17:11:05][2020-07-22 17:11:05][    174878]:  /home/YJY015/json/2020-07-22/element_goes_ie.json finish.
+[root][2020-07-22 17:11:05][2020-07-22 17:11:05][    174878]:  /home/YJY015/json/2020-07-22/element_goes_ip.json finish.
+[root][2020-07-22 17:11:05][2020-07-22 17:11:05][    174878]:  /home/YJY015/json/2020-07-22/element_goes_mag.json finish.
+[root][2020-07-22 17:11:05][2020-07-22 17:11:05][    174878]:  /home/YJY015/json/2020-07-22/element_goes_xr.json finish.
+[root][2020-07-22 17:11:05][2020-07-22 17:11:05][    174878]:  /home/YJY015/json/2020-07-22/element_kp.json finish.
+[root][2020-07-22 17:11:05][2020-07-22 17:11:06][    174878]:  /home/YJY015/json/2020-07-22/event_configuration.json finish.
+[root][2020-07-22 17:11:27][2020-07-22 17:11:27][    176131]:  /home/YJY015/test/2020-07-22.zip
+[root][2020-07-22 17:11:27][2020-07-22 17:11:27][    176131]:  record_data finish.
+[root][2020-07-22 17:11:27][2020-07-22 17:11:27][    176131]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-22 17:11:27][2020-07-22 17:11:27][    176131]:  record_alert finish.
+[root][2020-07-22 17:11:27][2020-07-22 17:11:27][    176131]:  report_file_info_json文件不存在,没有导出report_file_info信息,report_file_info_json = 
+[root][2020-07-22 17:11:27][2020-07-22 17:11:27][    176131]:  /home/YJY015/json/2020-07-22/element_ap.json finish.
+[root][2020-07-22 17:11:27][2020-07-22 17:11:27][    176131]:  /home/YJY015/json/2020-07-22/element_goes_ie.json finish.
+[root][2020-07-22 17:11:27][2020-07-22 17:11:27][    176131]:  /home/YJY015/json/2020-07-22/element_goes_ip.json finish.
+[root][2020-07-22 17:11:27][2020-07-22 17:11:27][    176131]:  /home/YJY015/json/2020-07-22/element_goes_mag.json finish.
+[root][2020-07-22 17:11:27][2020-07-22 17:11:27][    176131]:  /home/YJY015/json/2020-07-22/element_goes_xr.json finish.
+[root][2020-07-22 17:11:27][2020-07-22 17:11:27][    176131]:  /home/YJY015/json/2020-07-22/element_kp.json finish.
+[root][2020-07-22 17:11:27][2020-07-22 17:11:28][    176131]:  /home/YJY015/json/2020-07-22/event_configuration.json finish.

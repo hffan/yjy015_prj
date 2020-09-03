@@ -1,0 +1,18 @@
+[root][2020-07-23 17:40:19][2020-07-23 17:40:19][   2155660]:  /home/YJY015/import/2020-07-23.zip
+[root][2020-07-23 17:40:19][2020-07-23 17:40:24][   2155660]:  record_data finish.
+[root][2020-07-23 17:40:19][2020-07-23 17:40:24][   2155660]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-23 17:40:19][2020-07-23 17:40:24][   2155660]:  alert_file_info_json文件不存在,没有导出alert_file_info信息,alert_file_info_json = 
+[root][2020-07-23 17:40:19][2020-07-23 17:40:24][   2155660]:  report_file_info_json文件不存在,没有导出report_file_info信息,report_file_info_json = 
+[root][2020-07-23 17:40:19][2020-07-23 17:40:24][   2155660]:  /home/YJY015/json/2020-07-23/element_ace_mag.json finish.
+[root][2020-07-23 17:40:19][2020-07-23 17:40:25][   2155660]:  /home/YJY015/json/2020-07-23/element_ace_sw.json finish.
+[root][2020-07-23 17:40:19][2020-07-23 17:40:25][   2155660]:  /home/YJY015/json/2020-07-23/element_goes_ie.json finish.
+[root][2020-07-23 17:40:19][2020-07-23 17:40:25][   2155660]:  /home/YJY015/json/2020-07-23/element_goes_ip.json finish.
+[root][2020-07-23 17:40:19][2020-07-23 17:40:26][   2155660]:  /home/YJY015/json/2020-07-23/element_goes_mag.json finish.
+[root][2020-07-23 17:40:19][2020-07-23 17:40:27][   2155660]:  /home/YJY015/json/2020-07-23/element_goes_xr.json finish.
+[root][2020-07-23 17:40:19][2020-07-23 17:40:27][   2155660]:  /home/YJY015/json/2020-07-23/element_hpi.json finish.
+[root][2020-07-23 17:40:19][2020-07-23 17:40:27][   2155660]:  /home/YJY015/json/2020-07-23/element_kp.json finish.
+[root][2020-07-23 17:40:19][2020-07-23 17:40:28][   2155660]:  /home/YJY015/json/2020-07-23/element_rad.json finish.
+[root][2020-07-23 17:40:19][2020-07-23 17:40:28][   2155660]:  /home/YJY015/json/2020-07-23/element_ste_het.json finish.
+[root][2020-07-23 17:40:19][2020-07-23 17:40:28][   2155660]:  /home/YJY015/json/2020-07-23/element_ste_mag.json finish.
+[root][2020-07-23 17:40:19][2020-07-23 17:40:29][   2155660]:  /home/YJY015/json/2020-07-23/element_ste_sw.json finish.
+[root][2020-07-23 17:40:19][2020-07-23 17:40:29][   2155660]:  event_configuration_json文件不存在,没有导出event_configuration信息,event_configuration_json = 

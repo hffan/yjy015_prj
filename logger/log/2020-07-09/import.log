@@ -1,0 +1,33 @@
+[root][2020-07-09 12:40:25][2020-07-09 12:40:25][    361054]:  C%3A%5Cfakepath%5C2020-07-08_2020-07-09.zip=
+[root][2020-07-09 12:41:52][2020-07-09 12:41:52][    362439]:  C%3A%5Cfakepath%5C2020-07-08_2020-07-09.zip=
+[root][2020-07-09 13:09:28][2020-07-09 13:09:28][    388886]:  C%3A%5Cfakepath%5C2020-07-06_2020-07-07.zip=
+[root][2020-07-09 13:12:15][2020-07-09 13:12:15][    393561]:  C%3A%5Cfakepath%5C2020-07-08_2020-07-09.zip=
+[root][2020-07-09 13:12:15][2020-07-09 13:12:15][    393561]:  Traceback (most recent call last):
+  File "/home/YJY015/code/import.py", line 320, in import_data
+    datafile_json,productfile_json,alertfile_json = extract_zip(input_fullpath)
+  File "/home/YJY015/code/import.py", line 273, in extract_zip
+    z = zipfile.ZipFile(zip_filename, 'r') # 这里的第二个参数用r表示是读取zip文件，w是创建一个zip文件
+  File "/root/anaconda3/lib/python3.7/zipfile.py", line 1204, in __init__
+    self.fp = io.open(file, filemode)
+FileNotFoundError: [Errno 2] No such file or directory: 'C%3A%5Cfakepath%5C2020-07-08_2020-07-09.zip='
+
+[root][2020-07-09 16:03:04][2020-07-09 16:03:04][    552891]:  C%3A%5Cfakepath%5C2020-07-08_2020-07-09.zip=
+[root][2020-07-09 16:03:04][2020-07-09 16:03:04][    552891]:  Traceback (most recent call last):
+  File "/home/YJY015/code/import.py", line 320, in import_data
+    datafile_json,productfile_json,alertfile_json = extract_zip(input_fullpath)
+  File "/home/YJY015/code/import.py", line 273, in extract_zip
+    z = zipfile.ZipFile(zip_filename, 'r') # 这里的第二个参数用r表示是读取zip文件，w是创建一个zip文件
+  File "/root/anaconda3/lib/python3.7/zipfile.py", line 1204, in __init__
+    self.fp = io.open(file, filemode)
+FileNotFoundError: [Errno 2] No such file or directory: 'C%3A%5Cfakepath%5C2020-07-08_2020-07-09.zip='
+
+[root][2020-07-09 17:44:32][2020-07-09 17:44:32][    644846]:  C%3A%5Cfakepath%5C2020-07-06_2020-07-07.zip=
+[root][2020-07-09 17:44:32][2020-07-09 17:44:32][    644846]:  Traceback (most recent call last):
+  File "/home/YJY015/code/import.py", line 320, in import_data
+    datafile_json,productfile_json,alertfile_json = extract_zip(input_fullpath)
+  File "/home/YJY015/code/import.py", line 273, in extract_zip
+    z = zipfile.ZipFile(zip_filename, 'r') # 这里的第二个参数用r表示是读取zip文件，w是创建一个zip文件
+  File "/root/anaconda3/lib/python3.7/zipfile.py", line 1204, in __init__
+    self.fp = io.open(file, filemode)
+FileNotFoundError: [Errno 2] No such file or directory: 'C%3A%5Cfakepath%5C2020-07-06_2020-07-07.zip='
+

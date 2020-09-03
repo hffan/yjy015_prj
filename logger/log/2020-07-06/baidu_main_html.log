@@ -1,0 +1,132 @@
+[root][2020-07-06 11:30:08][2020-07-06 11:30:08][   4191403]:  baidu_main_html
+[root][2020-07-06 11:30:08][2020-07-06 11:30:08][   4191403]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 200, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+
+[root][2020-07-06 11:35:02][2020-07-06 11:35:02][       829]:  baidu_main_html
+[root][2020-07-06 11:35:02][2020-07-06 11:35:02][       829]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 200, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+
+[root][2020-07-06 11:40:02][2020-07-06 11:40:02][      5824]:  baidu_main_html
+[root][2020-07-06 11:40:02][2020-07-06 11:40:02][      5824]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 200, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+
+[root][2020-07-06 11:45:07][2020-07-06 11:45:07][      8843]:  baidu_main_html
+[root][2020-07-06 11:45:07][2020-07-06 11:45:07][      8843]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 200, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+
+[root][2020-07-06 11:50:02][2020-07-06 11:50:02][     12560]:  baidu_main_html
+[root][2020-07-06 11:50:02][2020-07-06 11:50:02][     12560]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 200, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+
+[root][2020-07-06 11:55:02][2020-07-06 11:55:02][     17364]:  baidu_main_html
+[root][2020-07-06 11:55:02][2020-07-06 11:55:02][     17364]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 200, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+
+[root][2020-07-06 12:00:23][2020-07-06 12:00:23][     22092]:  baidu_main_html
+[root][2020-07-06 12:00:23][2020-07-06 12:00:23][     22092]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 200, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+
+[root][2020-07-06 12:05:03][2020-07-06 12:05:03][     28108]:  baidu_main_html
+[root][2020-07-06 12:05:03][2020-07-06 12:05:03][     28108]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 200, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+
+[root][2020-07-06 12:10:03][2020-07-06 12:10:03][     32958]:  baidu_main_html
+[root][2020-07-06 12:10:03][2020-07-06 12:10:03][     32958]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 200, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+
+[root][2020-07-06 12:15:07][2020-07-06 12:15:07][     37558]:  baidu_main_html
+[root][2020-07-06 12:15:07][2020-07-06 12:15:07][     37558]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 200, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+
+[root][2020-07-06 12:20:02][2020-07-06 12:20:02][     42484]:  baidu_main_html
+[root][2020-07-06 12:20:02][2020-07-06 12:20:02][     42484]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 200, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+
+[root][2020-07-06 12:25:02][2020-07-06 12:25:02][     45792]:  baidu_main_html
+[root][2020-07-06 12:25:02][2020-07-06 12:25:02][     45792]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 200, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+
+[root][2020-07-06 12:30:07][2020-07-06 12:30:07][     50081]:  baidu_main_html
+[root][2020-07-06 12:30:07][2020-07-06 12:30:07][     50081]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 200, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+
+[root][2020-07-06 12:35:02][2020-07-06 12:35:02][     54929]:  baidu_main_html
+[root][2020-07-06 12:35:02][2020-07-06 12:35:02][     54929]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 200, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+
+[root][2020-07-06 12:40:02][2020-07-06 12:40:02][     59459]:  baidu_main_html
+[root][2020-07-06 12:40:02][2020-07-06 12:40:02][     59459]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 200, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+
+[root][2020-07-06 12:45:07][2020-07-06 12:45:07][     64303]:  baidu_main_html
+[root][2020-07-06 12:45:07][2020-07-06 12:45:07][     64303]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 200, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+
+[root][2020-07-06 12:50:02][2020-07-06 12:50:02][     67706]:  baidu_main_html
+[root][2020-07-06 12:50:02][2020-07-06 12:50:02][     67706]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 200, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+
+[root][2020-07-06 12:55:02][2020-07-06 12:55:02][     71071]:  baidu_main_html
+[root][2020-07-06 12:55:02][2020-07-06 12:55:02][     71071]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 200, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+
+[root][2020-07-06 13:00:10][2020-07-06 13:00:10][     75596]:  baidu_main_html
+[root][2020-07-06 13:00:10][2020-07-06 13:00:10][     75596]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 200, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+
+[root][2020-07-06 13:05:03][2020-07-06 13:05:03][     82331]:  baidu_main_html
+[root][2020-07-06 13:05:03][2020-07-06 13:05:03][     82331]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 200, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+
+[root][2020-07-06 13:10:02][2020-07-06 13:10:02][     87221]:  baidu_main_html
+[root][2020-07-06 13:10:02][2020-07-06 13:10:02][     87221]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 200, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+
+[root][2020-07-06 13:15:07][2020-07-06 13:15:07][     91718]:  baidu_main_html
+[root][2020-07-06 13:15:07][2020-07-06 13:15:07][     91718]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 200, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+

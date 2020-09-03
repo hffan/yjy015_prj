@@ -1,0 +1,18 @@
+[root][2020-06-17 15:46:02][2020-06-17 15:46:02][    550138]:  list index out of range
+[root][2020-06-17 15:46:02][2020-06-17 15:46:02][    550138]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 202, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+
+[root][2020-06-17 15:47:01][2020-06-17 15:47:01][    550208]:  list index out of range
+[root][2020-06-17 15:47:01][2020-06-17 15:47:01][    550208]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 202, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+
+[root][2020-06-17 15:48:03][2020-06-17 15:48:03][    550343]:  list index out of range
+[root][2020-06-17 15:48:03][2020-06-17 15:48:03][    550343]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 202, in <module>
+    element_extract_flag = searchinfos[0]['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+IndexError: list index out of range
+

@@ -1,0 +1,3 @@
+share_disk_open=False
+share_disk_rootpath=/home/redhat/
+rootpath=/home/YJY015/

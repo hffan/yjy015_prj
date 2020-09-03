@@ -1,0 +1,12 @@
+[root][2020-06-16 16:25:01][2020-06-16 16:25:01][    111343]:  FATAL:  database "yjy015_1" does not exist
+
+[root][2020-06-16 16:25:01][2020-06-16 16:25:01][    111343]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 163, in <module>
+    searchinfos=pga.search_db_table(db_name,table_name,cdt_element)
+  File "/home/YJY015/code/db/postgres_archive.py", line 143, in search_db_table
+    conn = psycopg2.connect(database=database_name, host=self.host, user=self.user, password=self.password, port=self.port)
+  File "/root/anaconda3/lib/python3.7/site-packages/psycopg2/__init__.py", line 126, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: FATAL:  database "yjy015_1" does not exist
+
+

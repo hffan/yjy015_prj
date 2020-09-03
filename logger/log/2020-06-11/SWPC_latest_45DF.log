@@ -1,0 +1,8 @@
+[root][2020-06-11 11:00:27][2020-06-11 11:01:32][   3469627]:  local variable 'table_name' referenced before assignment
+[root][2020-06-11 11:00:27][2020-06-11 11:01:32][   3469627]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 273, in <module>
+    table_name = el_re.get_table_name()
+  File "/home/YJY015/code/element_opt/element_record.py", line 101, in get_table_name
+    return table_name
+UnboundLocalError: local variable 'table_name' referenced before assignment
+

@@ -1,0 +1,32 @@
+2020-08-07 14:25:34
+1. 部署，需要更新element_ace_sis表，需要先删除，再创建，内网，外网，都需要删除，再重建
+2. event_configuration，需要删除，再重新建立，再插入，内网，外网，都需要删除，再重建
+3. data_category表需要，删除，在重新建立，再插入，内网，外网，都需要删除，再重建
+4. import_monitor表需要，删除，在重新建立，内网，外网，都需要删除，再重建
+5. export_monitor表需要，删除，在重新建立，内网，外网，都需要删除，再重建
+
+
+2020-08-08 10:10:34
+1. 更新alert_file_info，字段utc_time更新为bj_time
+2. event_configuration表格，更新，read excel表格，读取19行
+3. 增加element_info表创建，读取excel表格，更新element_info脚本
+
+
+2020-08-11 09:09:58
+1. 更新linux下pyserial串口
+2. 添加联系人分组，添加值班组
+3. 更新图像分辨率，由1024更改为512，需要更新data_category表 
+
+
+2020-08-21 09:42:02
+1. 内网，取消调度启动
+2. restart_task.sh,reboot_service.sh,脚本里增加内网，外网调度启动判断
+3. 更新clean_up_monitor中status状态为int2, 1，2，3，代表失败，删除中，成功。
+
+2020-08-31 11:03:41
+1. 所有py文件，去掉/usr/bin/python解释器路径，因为实际测试，如果服务器非法掉电，导致解释器路径报错
+2. daemon.sh脚本里，refresh_task.sh更名为restart_task.sh
+
+
+
+

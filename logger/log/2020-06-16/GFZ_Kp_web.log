@@ -1,0 +1,212 @@
+[root][2020-06-16 16:45:06][2020-06-16 16:45:51][    129474]:  Traceback (most recent call last):
+  File "/home/YJY015/code/file_info/wget_download.py", line 734, in download_wget
+    self.record_datas()
+  File "/home/YJY015/code/file_info/wget_download.py", line 667, in record_datas
+    self.record_data(self.localfilename)
+  File "/home/YJY015/code/file_info/wget_download.py", line 459, in record_data
+    self.db_file_size=os.path.getsize(self.downloadfullpathname)
+  File "/root/anaconda3/lib/python3.7/genericpath.py", line 50, in getsize
+    return os.stat(filename).st_size
+FileNotFoundError: [Errno 2] No such file or directory: '/home/YJY015///data//geomag/GFZ/kp/html/202006/20200616/qlyymm_20200616_084500.html'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/YJY015/code/file_info/wget_download.py", line 873, in start
+    self.download_wget(starttime, endtime)
+  File "/home/YJY015/code/file_info/wget_download.py", line 741, in download_wget
+    raise Exception(traceback.format_exc())
+Exception: Traceback (most recent call last):
+  File "/home/YJY015/code/file_info/wget_download.py", line 734, in download_wget
+    self.record_datas()
+  File "/home/YJY015/code/file_info/wget_download.py", line 667, in record_datas
+    self.record_data(self.localfilename)
+  File "/home/YJY015/code/file_info/wget_download.py", line 459, in record_data
+    self.db_file_size=os.path.getsize(self.downloadfullpathname)
+  File "/root/anaconda3/lib/python3.7/genericpath.py", line 50, in getsize
+    return os.stat(filename).st_size
+FileNotFoundError: [Errno 2] No such file or directory: '/home/YJY015///data//geomag/GFZ/kp/html/202006/20200616/qlyymm_20200616_084500.html'
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 73, in download_wget_manually
+    wg.start(starttime,endtime) ####传入时间，与系统时间比较，如果大于系统时间(有bug,系统时间错误，就是bug)
+  File "/home/YJY015/code/file_info/wget_download.py", line 876, in start
+    raise Exception(traceback.format_exc())
+Exception: Traceback (most recent call last):
+  File "/home/YJY015/code/file_info/wget_download.py", line 734, in download_wget
+    self.record_datas()
+  File "/home/YJY015/code/file_info/wget_download.py", line 667, in record_datas
+    self.record_data(self.localfilename)
+  File "/home/YJY015/code/file_info/wget_download.py", line 459, in record_data
+    self.db_file_size=os.path.getsize(self.downloadfullpathname)
+  File "/root/anaconda3/lib/python3.7/genericpath.py", line 50, in getsize
+    return os.stat(filename).st_size
+FileNotFoundError: [Errno 2] No such file or directory: '/home/YJY015///data//geomag/GFZ/kp/html/202006/20200616/qlyymm_20200616_084500.html'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/YJY015/code/file_info/wget_download.py", line 873, in start
+    self.download_wget(starttime, endtime)
+  File "/home/YJY015/code/file_info/wget_download.py", line 741, in download_wget
+    raise Exception(traceback.format_exc())
+Exception: Traceback (most recent call last):
+  File "/home/YJY015/code/file_info/wget_download.py", line 734, in download_wget
+    self.record_datas()
+  File "/home/YJY015/code/file_info/wget_download.py", line 667, in record_datas
+    self.record_data(self.localfilename)
+  File "/home/YJY015/code/file_info/wget_download.py", line 459, in record_data
+    self.db_file_size=os.path.getsize(self.downloadfullpathname)
+  File "/root/anaconda3/lib/python3.7/genericpath.py", line 50, in getsize
+    return os.stat(filename).st_size
+FileNotFoundError: [Errno 2] No such file or directory: '/home/YJY015///data//geomag/GFZ/kp/html/202006/20200616/qlyymm_20200616_084500.html'
+
+
+
+[root][2020-06-16 16:45:06][2020-06-16 16:45:51][    129474]:  Traceback (most recent call last):
+  File "/home/YJY015/code/file_info/wget_download.py", line 734, in download_wget
+    self.record_datas()
+  File "/home/YJY015/code/file_info/wget_download.py", line 667, in record_datas
+    self.record_data(self.localfilename)
+  File "/home/YJY015/code/file_info/wget_download.py", line 459, in record_data
+    self.db_file_size=os.path.getsize(self.downloadfullpathname)
+  File "/root/anaconda3/lib/python3.7/genericpath.py", line 50, in getsize
+    return os.stat(filename).st_size
+FileNotFoundError: [Errno 2] No such file or directory: '/home/YJY015///data//geomag/GFZ/kp/html/202006/20200616/qlyymm_20200616_084500.html'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/YJY015/code/file_info/wget_download.py", line 873, in start
+    self.download_wget(starttime, endtime)
+  File "/home/YJY015/code/file_info/wget_download.py", line 741, in download_wget
+    raise Exception(traceback.format_exc())
+Exception: Traceback (most recent call last):
+  File "/home/YJY015/code/file_info/wget_download.py", line 734, in download_wget
+    self.record_datas()
+  File "/home/YJY015/code/file_info/wget_download.py", line 667, in record_datas
+    self.record_data(self.localfilename)
+  File "/home/YJY015/code/file_info/wget_download.py", line 459, in record_data
+    self.db_file_size=os.path.getsize(self.downloadfullpathname)
+  File "/root/anaconda3/lib/python3.7/genericpath.py", line 50, in getsize
+    return os.stat(filename).st_size
+FileNotFoundError: [Errno 2] No such file or directory: '/home/YJY015///data//geomag/GFZ/kp/html/202006/20200616/qlyymm_20200616_084500.html'
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 73, in download_wget_manually
+    wg.start(starttime,endtime) ####传入时间，与系统时间比较，如果大于系统时间(有bug,系统时间错误，就是bug)
+  File "/home/YJY015/code/file_info/wget_download.py", line 876, in start
+    raise Exception(traceback.format_exc())
+Exception: Traceback (most recent call last):
+  File "/home/YJY015/code/file_info/wget_download.py", line 734, in download_wget
+    self.record_datas()
+  File "/home/YJY015/code/file_info/wget_download.py", line 667, in record_datas
+    self.record_data(self.localfilename)
+  File "/home/YJY015/code/file_info/wget_download.py", line 459, in record_data
+    self.db_file_size=os.path.getsize(self.downloadfullpathname)
+  File "/root/anaconda3/lib/python3.7/genericpath.py", line 50, in getsize
+    return os.stat(filename).st_size
+FileNotFoundError: [Errno 2] No such file or directory: '/home/YJY015///data//geomag/GFZ/kp/html/202006/20200616/qlyymm_20200616_084500.html'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/YJY015/code/file_info/wget_download.py", line 873, in start
+    self.download_wget(starttime, endtime)
+  File "/home/YJY015/code/file_info/wget_download.py", line 741, in download_wget
+    raise Exception(traceback.format_exc())
+Exception: Traceback (most recent call last):
+  File "/home/YJY015/code/file_info/wget_download.py", line 734, in download_wget
+    self.record_datas()
+  File "/home/YJY015/code/file_info/wget_download.py", line 667, in record_datas
+    self.record_data(self.localfilename)
+  File "/home/YJY015/code/file_info/wget_download.py", line 459, in record_data
+    self.db_file_size=os.path.getsize(self.downloadfullpathname)
+  File "/root/anaconda3/lib/python3.7/genericpath.py", line 50, in getsize
+    return os.stat(filename).st_size
+FileNotFoundError: [Errno 2] No such file or directory: '/home/YJY015///data//geomag/GFZ/kp/html/202006/20200616/qlyymm_20200616_084500.html'
+
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 174, in <module>
+    download_wget_manually(category_abbr_en,starttime,endtime,searchinfos)
+  File "/home/YJY015/code/download.py", line 75, in download_wget_manually
+    raise Exception(traceback.format_exc())
+Exception: Traceback (most recent call last):
+  File "/home/YJY015/code/file_info/wget_download.py", line 734, in download_wget
+    self.record_datas()
+  File "/home/YJY015/code/file_info/wget_download.py", line 667, in record_datas
+    self.record_data(self.localfilename)
+  File "/home/YJY015/code/file_info/wget_download.py", line 459, in record_data
+    self.db_file_size=os.path.getsize(self.downloadfullpathname)
+  File "/root/anaconda3/lib/python3.7/genericpath.py", line 50, in getsize
+    return os.stat(filename).st_size
+FileNotFoundError: [Errno 2] No such file or directory: '/home/YJY015///data//geomag/GFZ/kp/html/202006/20200616/qlyymm_20200616_084500.html'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/YJY015/code/file_info/wget_download.py", line 873, in start
+    self.download_wget(starttime, endtime)
+  File "/home/YJY015/code/file_info/wget_download.py", line 741, in download_wget
+    raise Exception(traceback.format_exc())
+Exception: Traceback (most recent call last):
+  File "/home/YJY015/code/file_info/wget_download.py", line 734, in download_wget
+    self.record_datas()
+  File "/home/YJY015/code/file_info/wget_download.py", line 667, in record_datas
+    self.record_data(self.localfilename)
+  File "/home/YJY015/code/file_info/wget_download.py", line 459, in record_data
+    self.db_file_size=os.path.getsize(self.downloadfullpathname)
+  File "/root/anaconda3/lib/python3.7/genericpath.py", line 50, in getsize
+    return os.stat(filename).st_size
+FileNotFoundError: [Errno 2] No such file or directory: '/home/YJY015///data//geomag/GFZ/kp/html/202006/20200616/qlyymm_20200616_084500.html'
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 73, in download_wget_manually
+    wg.start(starttime,endtime) ####传入时间，与系统时间比较，如果大于系统时间(有bug,系统时间错误，就是bug)
+  File "/home/YJY015/code/file_info/wget_download.py", line 876, in start
+    raise Exception(traceback.format_exc())
+Exception: Traceback (most recent call last):
+  File "/home/YJY015/code/file_info/wget_download.py", line 734, in download_wget
+    self.record_datas()
+  File "/home/YJY015/code/file_info/wget_download.py", line 667, in record_datas
+    self.record_data(self.localfilename)
+  File "/home/YJY015/code/file_info/wget_download.py", line 459, in record_data
+    self.db_file_size=os.path.getsize(self.downloadfullpathname)
+  File "/root/anaconda3/lib/python3.7/genericpath.py", line 50, in getsize
+    return os.stat(filename).st_size
+FileNotFoundError: [Errno 2] No such file or directory: '/home/YJY015///data//geomag/GFZ/kp/html/202006/20200616/qlyymm_20200616_084500.html'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/YJY015/code/file_info/wget_download.py", line 873, in start
+    self.download_wget(starttime, endtime)
+  File "/home/YJY015/code/file_info/wget_download.py", line 741, in download_wget
+    raise Exception(traceback.format_exc())
+Exception: Traceback (most recent call last):
+  File "/home/YJY015/code/file_info/wget_download.py", line 734, in download_wget
+    self.record_datas()
+  File "/home/YJY015/code/file_info/wget_download.py", line 667, in record_datas
+    self.record_data(self.localfilename)
+  File "/home/YJY015/code/file_info/wget_download.py", line 459, in record_data
+    self.db_file_size=os.path.getsize(self.downloadfullpathname)
+  File "/root/anaconda3/lib/python3.7/genericpath.py", line 50, in getsize
+    return os.stat(filename).st_size
+FileNotFoundError: [Errno 2] No such file or directory: '/home/YJY015///data//geomag/GFZ/kp/html/202006/20200616/qlyymm_20200616_084500.html'
+
+
+
+

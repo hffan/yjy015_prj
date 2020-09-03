@@ -1,0 +1,409 @@
+[root][2020-07-15 09:36:14][2020-07-15 09:36:14][   2290443]:  %2Fhome%2FYJY015%2Fimport%2F2020-07-14.zip=
+[root][2020-07-15 09:36:14][2020-07-15 09:36:14][   2290443]:  Traceback (most recent call last):
+  File "/home/YJY015/code/import.py", line 1517, in import_data
+    data_file_info_json,product_file_info_json,alert_file_info_json,report_file_info_json,element_extract_json,event_configuration_json = extract_zip(input_fullpath)
+  File "/home/YJY015/code/import.py", line 1432, in extract_zip
+    z = zipfile.ZipFile(zip_filename, 'r') # 这里的第二个参数用r表示是读取zip文件，w是创建一个zip文件
+  File "/root/anaconda3/lib/python3.7/zipfile.py", line 1204, in __init__
+    self.fp = io.open(file, filemode)
+FileNotFoundError: [Errno 2] No such file or directory: '%2Fhome%2FYJY015%2Fimport%2F2020-07-14.zip='
+
+[root][2020-07-15 10:12:25][2020-07-15 10:12:25][   2325687]:  %2Fhome%2FYJY015%2Fimport%2F2020-07-14.zip=
+[root][2020-07-15 10:12:25][2020-07-15 10:12:25][   2325687]:  Traceback (most recent call last):
+  File "/home/YJY015/code/import.py", line 1517, in import_data
+    data_file_info_json,product_file_info_json,alert_file_info_json,report_file_info_json,element_extract_json,event_configuration_json = extract_zip(input_fullpath)
+  File "/home/YJY015/code/import.py", line 1432, in extract_zip
+    z = zipfile.ZipFile(zip_filename, 'r') # 这里的第二个参数用r表示是读取zip文件，w是创建一个zip文件
+  File "/root/anaconda3/lib/python3.7/zipfile.py", line 1204, in __init__
+    self.fp = io.open(file, filemode)
+FileNotFoundError: [Errno 2] No such file or directory: '%2Fhome%2FYJY015%2Fimport%2F2020-07-14.zip='
+
+[root][2020-07-15 10:18:54][2020-07-15 10:18:54][   2330708]:  %5Chome%5CYJY015%5Cimport%5C2020-07-14.zip=
+[root][2020-07-15 10:18:54][2020-07-15 10:18:54][   2330708]:  Traceback (most recent call last):
+  File "/home/YJY015/code/import.py", line 1517, in import_data
+    data_file_info_json,product_file_info_json,alert_file_info_json,report_file_info_json,element_extract_json,event_configuration_json = extract_zip(input_fullpath)
+  File "/home/YJY015/code/import.py", line 1432, in extract_zip
+    z = zipfile.ZipFile(zip_filename, 'r') # 这里的第二个参数用r表示是读取zip文件，w是创建一个zip文件
+  File "/root/anaconda3/lib/python3.7/zipfile.py", line 1204, in __init__
+    self.fp = io.open(file, filemode)
+FileNotFoundError: [Errno 2] No such file or directory: '%5Chome%5CYJY015%5Cimport%5C2020-07-14.zip='
+
+[root][2020-07-15 10:20:11][2020-07-15 10:20:11][   2330835]:  %5C%5Chome%5C%5CYJY015%5C%5Cimport%5C%5C2020-07-14.zip=
+[root][2020-07-15 10:20:11][2020-07-15 10:20:11][   2330835]:  Traceback (most recent call last):
+  File "/home/YJY015/code/import.py", line 1517, in import_data
+    data_file_info_json,product_file_info_json,alert_file_info_json,report_file_info_json,element_extract_json,event_configuration_json = extract_zip(input_fullpath)
+  File "/home/YJY015/code/import.py", line 1432, in extract_zip
+    z = zipfile.ZipFile(zip_filename, 'r') # 这里的第二个参数用r表示是读取zip文件，w是创建一个zip文件
+  File "/root/anaconda3/lib/python3.7/zipfile.py", line 1204, in __init__
+    self.fp = io.open(file, filemode)
+FileNotFoundError: [Errno 2] No such file or directory: '%5C%5Chome%5C%5CYJY015%5C%5Cimport%5C%5C2020-07-14.zip='
+
+[root][2020-07-15 10:28:53][2020-07-15 10:28:53][   2340394]:  {"dataPath":"/home/YJY015/import/2020-07-14.zip"}
+[root][2020-07-15 10:28:53][2020-07-15 10:28:53][   2340394]:  Traceback (most recent call last):
+  File "/home/YJY015/code/import.py", line 1517, in import_data
+    data_file_info_json,product_file_info_json,alert_file_info_json,report_file_info_json,element_extract_json,event_configuration_json = extract_zip(input_fullpath)
+  File "/home/YJY015/code/import.py", line 1432, in extract_zip
+    z = zipfile.ZipFile(zip_filename, 'r') # 这里的第二个参数用r表示是读取zip文件，w是创建一个zip文件
+  File "/root/anaconda3/lib/python3.7/zipfile.py", line 1204, in __init__
+    self.fp = io.open(file, filemode)
+FileNotFoundError: [Errno 2] No such file or directory: '{"dataPath":"/home/YJY015/import/2020-07-14.zip"}'
+
+[root][2020-07-15 10:40:10][2020-07-15 10:40:10][   2348909]:  /home/YJY015/import/2020-07-14.zip
+[root][2020-07-15 10:41:22][2020-07-15 10:41:22][   2353106]:  /home/YJY015/import/2020-07-14.zip
+[root][2020-07-15 10:40:10][2020-07-15 10:43:36][   2348909]:  record_data finish.
+[root][2020-07-15 10:40:10][2020-07-15 10:43:38][   2348909]:  record_product finish.
+[root][2020-07-15 10:40:10][2020-07-15 10:43:38][   2348909]:  record_alert finish.
+[root][2020-07-15 10:40:10][2020-07-15 10:43:38][   2348909]:  record_alert finish.
+[root][2020-07-15 10:40:10][2020-07-15 10:43:57][   2348909]:  /home/YJY015/element_ace_ep.json finish.
+[root][2020-07-15 10:40:10][2020-07-15 10:45:49][   2348909]:  /home/YJY015/element_ace_mag.json finish.
+[root][2020-07-15 10:40:10][2020-07-15 10:46:05][   2348909]:  /home/YJY015/element_ace_sis.json finish.
+[root][2020-07-15 10:40:10][2020-07-15 10:48:02][   2348909]:  /home/YJY015/element_ace_sw.json finish.
+[root][2020-07-15 10:40:10][2020-07-15 10:48:02][   2348909]:  /home/YJY015/element_ap.json finish.
+[root][2020-07-15 10:40:10][2020-07-15 10:48:04][   2348909]:  /home/YJY015/element_dst.json finish.
+[root][2020-07-15 10:40:10][2020-07-15 10:48:22][   2348909]:  /home/YJY015/element_goes_ie.json finish.
+[root][2020-07-15 10:40:10][2020-07-15 10:48:40][   2348909]:  /home/YJY015/element_goes_ip.json finish.
+[root][2020-07-15 10:51:58][2020-07-15 10:51:58][   2375338]:  /home/YJY015/import/2020-07-06.zip
+[root][2020-07-15 10:51:58][2020-07-15 10:51:58][   2375338]:  data_file_info_json文件不存在,没有导出data_file_info信息,data_file_info_json = 
+[root][2020-07-15 10:51:58][2020-07-15 10:51:58][   2375338]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-15 10:51:58][2020-07-15 10:51:59][   2375338]:  record_alert finish.
+[root][2020-07-15 10:51:58][2020-07-15 10:51:59][   2375338]:  record_alert finish.
+[root][2020-07-15 10:51:58][2020-07-15 10:52:19][   2375338]:  /home/YJY015/element_ace_ep.json finish.
+[root][2020-07-15 10:53:14][2020-07-15 10:53:14][   2377367]:  /home/YJY015/import/2020-07-06.zip
+[root][2020-07-15 10:53:14][2020-07-15 10:53:14][   2377367]:  data_file_info_json文件不存在,没有导出data_file_info信息,data_file_info_json = 
+[root][2020-07-15 10:53:14][2020-07-15 10:53:14][   2377367]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-15 10:53:14][2020-07-15 10:53:15][   2377367]:  record_alert finish.
+[root][2020-07-15 10:53:14][2020-07-15 10:53:15][   2377367]:  record_alert finish.
+[root][2020-07-15 10:53:14][2020-07-15 10:53:34][   2377367]:  /home/YJY015/element_ace_ep.json finish.
+[root][2020-07-15 10:51:58][2020-07-15 10:54:09][   2375338]:  /home/YJY015/element_ace_mag.json finish.
+[root][2020-07-15 10:51:58][2020-07-15 10:54:28][   2375338]:  /home/YJY015/element_ace_sis.json finish.
+[root][2020-07-15 10:51:58][2020-07-15 10:56:37][   2375338]:  /home/YJY015/element_ace_sw.json finish.
+[root][2020-07-15 10:51:58][2020-07-15 10:56:37][   2375338]:  /home/YJY015/element_ap.json finish.
+[root][2020-07-15 10:51:58][2020-07-15 10:56:38][   2375338]:  /home/YJY015/element_dst.json finish.
+[root][2020-07-15 10:51:58][2020-07-15 10:56:56][   2375338]:  /home/YJY015/element_goes_ie.json finish.
+[root][2020-07-15 10:51:58][2020-07-15 10:57:13][   2375338]:  /home/YJY015/element_goes_ip.json finish.
+[root][2020-07-15 10:51:58][2020-07-15 10:58:55][   2375338]:  /home/YJY015/element_goes_mag.json finish.
+[root][2020-07-15 10:59:54][2020-07-15 10:59:54][   2395007]:  /home/YJY015/import/2020-07-06.zip
+[root][2020-07-15 10:59:54][2020-07-15 10:59:54][   2395007]:  data_file_info_json文件不存在,没有导出data_file_info信息,data_file_info_json = 
+[root][2020-07-15 10:59:54][2020-07-15 10:59:54][   2395007]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-15 10:59:54][2020-07-15 10:59:55][   2395007]:  record_alert finish.
+[root][2020-07-15 10:59:54][2020-07-15 10:59:55][   2395007]:  record_alert finish.
+[root][2020-07-15 10:59:54][2020-07-15 11:01:04][   2395007]:  /home/YJY015/element_ace_ep.json finish.
+[root][2020-07-15 10:51:58][2020-07-15 11:01:36][   2375338]:  /home/YJY015/element_goes_xr.json finish.
+[root][2020-07-15 10:51:58][2020-07-15 11:01:54][   2375338]:  /home/YJY015/element_hpi.json finish.
+[root][2020-07-15 10:51:58][2020-07-15 11:01:55][   2375338]:  /home/YJY015/element_kp.json finish.
+[root][2020-07-15 10:51:58][2020-07-15 11:01:58][   2375338]:  /home/YJY015/element_rad.json finish.
+[root][2020-07-15 10:51:58][2020-07-15 11:02:15][   2375338]:  /home/YJY015/element_ste_het.json finish.
+[root][2020-07-15 10:59:54][2020-07-15 11:03:45][   2395007]:  /home/YJY015/element_ace_mag.json finish.
+[root][2020-07-15 10:51:58][2020-07-15 11:04:03][   2375338]:  /home/YJY015/element_ste_mag.json finish.
+[root][2020-07-15 10:59:54][2020-07-15 11:04:03][   2395007]:  /home/YJY015/element_ace_sis.json finish.
+[root][2020-07-15 10:51:58][2020-07-15 11:05:57][   2375338]:  /home/YJY015/element_ste_sw.json finish.
+[root][2020-07-15 10:51:58][2020-07-15 11:05:57][   2375338]:  /home/YJY015/element_swpc_flare.json finish.
+[root][2020-07-15 10:51:58][2020-07-15 11:05:59][   2375338]:  /home/YJY015/element_tec.json finish.
+[root][2020-07-15 10:59:54][2020-07-15 11:06:25][   2395007]:  /home/YJY015/element_ace_sw.json finish.
+[root][2020-07-15 10:59:54][2020-07-15 11:06:26][   2395007]:  /home/YJY015/element_ap.json finish.
+[root][2020-07-15 10:59:54][2020-07-15 11:06:27][   2395007]:  /home/YJY015/element_dst.json finish.
+[root][2020-07-15 10:59:54][2020-07-15 11:06:47][   2395007]:  /home/YJY015/element_goes_ie.json finish.
+[root][2020-07-15 10:59:54][2020-07-15 11:07:08][   2395007]:  /home/YJY015/element_goes_ip.json finish.
+[root][2020-07-15 10:59:54][2020-07-15 11:09:29][   2395007]:  /home/YJY015/element_goes_mag.json finish.
+[root][2020-07-15 10:59:54][2020-07-15 11:11:48][   2395007]:  /home/YJY015/element_goes_xr.json finish.
+[root][2020-07-15 10:59:54][2020-07-15 11:12:05][   2395007]:  /home/YJY015/element_hpi.json finish.
+[root][2020-07-15 10:59:54][2020-07-15 11:12:06][   2395007]:  /home/YJY015/element_kp.json finish.
+[root][2020-07-15 10:59:54][2020-07-15 11:12:10][   2395007]:  /home/YJY015/element_rad.json finish.
+[root][2020-07-15 10:59:54][2020-07-15 11:12:24][   2395007]:  /home/YJY015/element_ste_het.json finish.
+[root][2020-07-15 11:12:31][2020-07-15 11:12:31][   2434045]:  /home/YJY015/import/2020-07-06.zip
+[root][2020-07-15 11:12:31][2020-07-15 11:12:32][   2434045]:  data_file_info_json文件不存在,没有导出data_file_info信息,data_file_info_json = 
+[root][2020-07-15 11:12:31][2020-07-15 11:12:32][   2434045]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-15 11:12:31][2020-07-15 11:12:32][   2434045]:  record_alert finish.
+[root][2020-07-15 11:12:31][2020-07-15 11:12:33][   2434045]:  record_alert finish.
+[root][2020-07-15 10:59:54][2020-07-15 11:14:15][   2395007]:  /home/YJY015/element_ste_mag.json finish.
+[root][2020-07-15 11:14:49][2020-07-15 11:14:49][   2437406]:  /home/YJY015/import/2020-07-06.zip
+[root][2020-07-15 11:14:49][2020-07-15 11:14:49][   2437406]:  data_file_info_json文件不存在,没有导出data_file_info信息,data_file_info_json = 
+[root][2020-07-15 11:14:49][2020-07-15 11:14:49][   2437406]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-15 11:14:49][2020-07-15 11:14:50][   2437406]:  record_alert finish.
+[root][2020-07-15 11:14:49][2020-07-15 11:14:50][   2437406]:  record_alert finish.
+[root][2020-07-15 11:14:49][2020-07-15 11:15:19][   2437406]:  /home/YJY015/element_ace_ep.json finish.
+[root][2020-07-15 11:15:59][2020-07-15 11:15:59][   2441833]:  /home/YJY015/import/2020-07-06.zip
+[root][2020-07-15 11:15:59][2020-07-15 11:15:59][   2441833]:  data_file_info_json文件不存在,没有导出data_file_info信息,data_file_info_json = 
+[root][2020-07-15 11:15:59][2020-07-15 11:15:59][   2441833]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-15 11:15:59][2020-07-15 11:16:00][   2441833]:  record_alert finish.
+[root][2020-07-15 11:15:59][2020-07-15 11:16:00][   2441833]:  record_alert finish.
+[root][2020-07-15 10:59:54][2020-07-15 11:16:13][   2395007]:  /home/YJY015/element_ste_sw.json finish.
+[root][2020-07-15 10:59:54][2020-07-15 11:16:13][   2395007]:  /home/YJY015/element_swpc_flare.json finish.
+[root][2020-07-15 10:59:54][2020-07-15 11:16:15][   2395007]:  /home/YJY015/element_tec.json finish.
+[root][2020-07-15 11:15:59][2020-07-15 11:16:22][   2441833]:  /home/YJY015/element_ace_ep.json finish.
+[root][2020-07-15 11:14:49][2020-07-15 11:17:45][   2437406]:  /home/YJY015/element_ace_mag.json finish.
+[root][2020-07-15 11:14:49][2020-07-15 11:18:04][   2437406]:  /home/YJY015/element_ace_sis.json finish.
+[root][2020-07-15 11:15:59][2020-07-15 11:18:32][   2441833]:  /home/YJY015/element_ace_mag.json finish.
+[root][2020-07-15 11:15:59][2020-07-15 11:18:38][   2441833]:  /home/YJY015/element_ace_sis.json finish.
+[root][2020-07-15 11:14:49][2020-07-15 11:19:49][   2437406]:  /home/YJY015/element_ace_sw.json finish.
+[root][2020-07-15 11:14:49][2020-07-15 11:19:49][   2437406]:  /home/YJY015/element_ap.json finish.
+[root][2020-07-15 11:14:49][2020-07-15 11:19:50][   2437406]:  /home/YJY015/element_dst.json finish.
+[root][2020-07-15 11:14:49][2020-07-15 11:20:10][   2437406]:  /home/YJY015/element_goes_ie.json finish.
+[root][2020-07-15 11:14:49][2020-07-15 11:20:16][   2437406]:  /home/YJY015/element_goes_ip.json finish.
+[root][2020-07-15 11:15:59][2020-07-15 11:20:24][   2441833]:  /home/YJY015/element_ace_sw.json finish.
+[root][2020-07-15 11:15:59][2020-07-15 11:20:24][   2441833]:  /home/YJY015/element_ap.json finish.
+[root][2020-07-15 11:15:59][2020-07-15 11:20:26][   2441833]:  /home/YJY015/element_dst.json finish.
+[root][2020-07-15 11:15:59][2020-07-15 11:20:43][   2441833]:  /home/YJY015/element_goes_ie.json finish.
+[root][2020-07-15 11:15:59][2020-07-15 11:21:03][   2441833]:  /home/YJY015/element_goes_ip.json finish.
+[root][2020-07-15 11:14:49][2020-07-15 11:22:30][   2437406]:  /home/YJY015/element_goes_mag.json finish.
+[root][2020-07-15 11:15:59][2020-07-15 11:23:22][   2441833]:  /home/YJY015/element_goes_mag.json finish.
+[root][2020-07-15 11:14:49][2020-07-15 11:24:51][   2437406]:  /home/YJY015/element_goes_xr.json finish.
+[root][2020-07-15 11:14:49][2020-07-15 11:25:12][   2437406]:  /home/YJY015/element_hpi.json finish.
+[root][2020-07-15 11:14:49][2020-07-15 11:25:13][   2437406]:  /home/YJY015/element_kp.json finish.
+[root][2020-07-15 11:14:49][2020-07-15 11:25:17][   2437406]:  /home/YJY015/element_rad.json finish.
+[root][2020-07-15 11:14:49][2020-07-15 11:25:40][   2437406]:  /home/YJY015/element_ste_het.json finish.
+[root][2020-07-15 11:25:45][2020-07-15 11:25:45][   2479587]:  /home/YJY015/import/2020-07-14.zip
+[root][2020-07-15 11:15:59][2020-07-15 11:25:59][   2441833]:  /home/YJY015/element_goes_xr.json finish.
+[root][2020-07-15 11:15:59][2020-07-15 11:26:19][   2441833]:  /home/YJY015/element_hpi.json finish.
+[root][2020-07-15 11:15:59][2020-07-15 11:26:20][   2441833]:  /home/YJY015/element_kp.json finish.
+[root][2020-07-15 11:15:59][2020-07-15 11:26:25][   2441833]:  /home/YJY015/element_rad.json finish.
+[root][2020-07-15 11:15:59][2020-07-15 11:26:42][   2441833]:  /home/YJY015/element_ste_het.json finish.
+[root][2020-07-15 11:14:49][2020-07-15 11:27:33][   2437406]:  /home/YJY015/element_ste_mag.json finish.
+[root][2020-07-15 11:15:59][2020-07-15 11:28:37][   2441833]:  /home/YJY015/element_ste_mag.json finish.
+[root][2020-07-15 11:25:45][2020-07-15 11:29:04][   2479587]:  record_data finish.
+[root][2020-07-15 11:25:45][2020-07-15 11:29:05][   2479587]:  record_product finish.
+[root][2020-07-15 11:25:45][2020-07-15 11:29:06][   2479587]:  record_alert finish.
+[root][2020-07-15 11:25:45][2020-07-15 11:29:06][   2479587]:  record_alert finish.
+[root][2020-07-15 11:14:49][2020-07-15 11:29:18][   2437406]:  /home/YJY015/element_ste_sw.json finish.
+[root][2020-07-15 11:14:49][2020-07-15 11:29:18][   2437406]:  /home/YJY015/element_swpc_flare.json finish.
+[root][2020-07-15 11:14:49][2020-07-15 11:29:19][   2437406]:  /home/YJY015/element_tec.json finish.
+[root][2020-07-15 11:25:45][2020-07-15 11:29:24][   2479587]:  /home/YJY015/element_ace_ep.json finish.
+[root][2020-07-15 11:15:59][2020-07-15 11:30:37][   2441833]:  /home/YJY015/element_ste_sw.json finish.
+[root][2020-07-15 11:15:59][2020-07-15 11:30:37][   2441833]:  /home/YJY015/element_swpc_flare.json finish.
+[root][2020-07-15 11:15:59][2020-07-15 11:30:38][   2441833]:  /home/YJY015/element_tec.json finish.
+[root][2020-07-15 11:25:45][2020-07-15 11:31:57][   2479587]:  /home/YJY015/element_ace_mag.json finish.
+[root][2020-07-15 11:25:45][2020-07-15 11:32:15][   2479587]:  /home/YJY015/element_ace_sis.json finish.
+[root][2020-07-15 11:25:45][2020-07-15 11:34:13][   2479587]:  /home/YJY015/element_ace_sw.json finish.
+[root][2020-07-15 11:25:45][2020-07-15 11:34:13][   2479587]:  /home/YJY015/element_ap.json finish.
+[root][2020-07-15 11:25:45][2020-07-15 11:34:15][   2479587]:  /home/YJY015/element_dst.json finish.
+[root][2020-07-15 11:25:45][2020-07-15 11:34:31][   2479587]:  /home/YJY015/element_goes_ie.json finish.
+[root][2020-07-15 11:25:45][2020-07-15 11:34:53][   2479587]:  /home/YJY015/element_goes_ip.json finish.
+[root][2020-07-15 11:25:45][2020-07-15 11:36:53][   2479587]:  /home/YJY015/element_goes_mag.json finish.
+[root][2020-07-15 11:25:45][2020-07-15 11:38:39][   2479587]:  /home/YJY015/element_goes_xr.json finish.
+[root][2020-07-15 11:25:45][2020-07-15 11:38:57][   2479587]:  /home/YJY015/element_hpi.json finish.
+[root][2020-07-15 11:25:45][2020-07-15 11:38:58][   2479587]:  /home/YJY015/element_kp.json finish.
+[root][2020-07-15 11:25:45][2020-07-15 11:39:02][   2479587]:  /home/YJY015/element_rad.json finish.
+[root][2020-07-15 11:25:45][2020-07-15 11:39:20][   2479587]:  /home/YJY015/element_ste_het.json finish.
+[root][2020-07-15 11:25:45][2020-07-15 11:41:22][   2479587]:  /home/YJY015/element_ste_mag.json finish.
+[root][2020-07-15 11:25:45][2020-07-15 11:43:12][   2479587]:  /home/YJY015/element_ste_sw.json finish.
+[root][2020-07-15 13:33:29][2020-07-15 13:33:29][   2639856]:  /home/YJY015/import/2020-07-06.zip
+[root][2020-07-15 13:33:29][2020-07-15 13:33:29][   2639856]:  Traceback (most recent call last):
+  File "import.py", line 1561, in import_data
+    data_file_info_json,product_file_info_json,alert_file_info_json,report_file_info_json,element_extract_json,event_configuration_json = extract_zip(input_fullpath)
+  File "import.py", line 1476, in extract_zip
+    z = zipfile.ZipFile(zip_filename, 'r') # 这里的第二个参数用r表示是读取zip文件，w是创建一个zip文件
+  File "/root/anaconda3/lib/python3.7/zipfile.py", line 1204, in __init__
+    self.fp = io.open(file, filemode)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/YJY015/import/2020-07-06.zip'
+
+[root][2020-07-15 13:33:58][2020-07-15 13:33:58][   2639889]:  /home/YJY015/import/2020-07-06.zip
+[root][2020-07-15 13:33:58][2020-07-15 13:33:58][   2639889]:  data_file_info_json文件不存在,没有导出data_file_info信息,data_file_info_json = 
+[root][2020-07-15 13:33:58][2020-07-15 13:33:58][   2639889]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-15 13:33:58][2020-07-15 13:33:59][   2639889]:  record_alert finish.
+[root][2020-07-15 13:33:58][2020-07-15 13:33:59][   2639889]:  record_alert finish.
+[root][2020-07-15 13:33:58][2020-07-15 13:34:21][   2639889]:  /home/YJY015/element_ace_ep.json finish.
+[root][2020-07-15 13:33:58][2020-07-15 13:37:02][   2639889]:  /home/YJY015/element_ace_mag.json finish.
+[root][2020-07-15 13:33:58][2020-07-15 13:37:21][   2639889]:  /home/YJY015/element_ace_sis.json finish.
+[root][2020-07-15 13:33:58][2020-07-15 13:39:32][   2639889]:  /home/YJY015/element_ace_sw.json finish.
+[root][2020-07-15 13:33:58][2020-07-15 13:39:32][   2639889]:  /home/YJY015/element_ap.json finish.
+[root][2020-07-15 13:33:58][2020-07-15 13:39:34][   2639889]:  /home/YJY015/element_dst.json finish.
+[root][2020-07-15 13:33:58][2020-07-15 13:39:53][   2639889]:  /home/YJY015/element_goes_ie.json finish.
+[root][2020-07-15 13:33:58][2020-07-15 13:40:17][   2639889]:  /home/YJY015/element_goes_ip.json finish.
+[root][2020-07-15 13:41:29][2020-07-15 13:41:29][   2657443]:  /home/YJY015/import/2020-07-06.zip
+[root][2020-07-15 13:41:29][2020-07-15 13:41:29][   2657443]:  data_file_info_json文件不存在,没有导出data_file_info信息,data_file_info_json = 
+[root][2020-07-15 13:41:29][2020-07-15 13:41:29][   2657443]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-15 13:41:29][2020-07-15 13:41:30][   2657443]:  record_alert finish.
+[root][2020-07-15 13:41:29][2020-07-15 13:41:30][   2657443]:  record_alert finish.
+[root][2020-07-15 13:41:29][2020-07-15 13:41:49][   2657443]:  /home/YJY015/element_ace_ep.json finish.
+[root][2020-07-15 13:33:58][2020-07-15 13:42:33][   2639889]:  /home/YJY015/element_goes_mag.json finish.
+[root][2020-07-15 13:41:29][2020-07-15 13:44:13][   2657443]:  /home/YJY015/element_ace_mag.json finish.
+[root][2020-07-15 13:41:29][2020-07-15 13:44:31][   2657443]:  /home/YJY015/element_ace_sis.json finish.
+[root][2020-07-15 13:33:58][2020-07-15 13:44:49][   2639889]:  /home/YJY015/element_goes_xr.json finish.
+[root][2020-07-15 13:33:58][2020-07-15 13:45:15][   2639889]:  /home/YJY015/element_hpi.json finish.
+[root][2020-07-15 13:33:58][2020-07-15 13:45:16][   2639889]:  /home/YJY015/element_kp.json finish.
+[root][2020-07-15 13:33:58][2020-07-15 13:45:20][   2639889]:  /home/YJY015/element_rad.json finish.
+[root][2020-07-15 13:33:58][2020-07-15 13:45:36][   2639889]:  /home/YJY015/element_ste_het.json finish.
+[root][2020-07-15 13:41:29][2020-07-15 13:46:48][   2657443]:  /home/YJY015/element_ace_sw.json finish.
+[root][2020-07-15 13:41:29][2020-07-15 13:46:48][   2657443]:  /home/YJY015/element_ap.json finish.
+[root][2020-07-15 13:41:29][2020-07-15 13:46:49][   2657443]:  /home/YJY015/element_dst.json finish.
+[root][2020-07-15 13:41:29][2020-07-15 13:47:07][   2657443]:  /home/YJY015/element_goes_ie.json finish.
+[root][2020-07-15 13:33:58][2020-07-15 13:47:21][   2639889]:  /home/YJY015/element_ste_mag.json finish.
+[root][2020-07-15 13:41:29][2020-07-15 13:47:27][   2657443]:  /home/YJY015/element_goes_ip.json finish.
+[root][2020-07-15 13:33:58][2020-07-15 13:48:59][   2639889]:  /home/YJY015/element_ste_sw.json finish.
+[root][2020-07-15 13:33:58][2020-07-15 13:48:59][   2639889]:  /home/YJY015/element_swpc_flare.json finish.
+[root][2020-07-15 13:33:58][2020-07-15 13:49:01][   2639889]:  /home/YJY015/element_tec.json finish.
+[root][2020-07-15 13:41:29][2020-07-15 13:49:49][   2657443]:  /home/YJY015/element_goes_mag.json finish.
+[root][2020-07-15 13:41:29][2020-07-15 13:52:14][   2657443]:  /home/YJY015/element_goes_xr.json finish.
+[root][2020-07-15 13:41:29][2020-07-15 13:52:32][   2657443]:  /home/YJY015/element_hpi.json finish.
+[root][2020-07-15 13:41:29][2020-07-15 13:52:33][   2657443]:  /home/YJY015/element_kp.json finish.
+[root][2020-07-15 13:41:29][2020-07-15 13:52:37][   2657443]:  /home/YJY015/element_rad.json finish.
+[root][2020-07-15 13:41:29][2020-07-15 13:52:53][   2657443]:  /home/YJY015/element_ste_het.json finish.
+[root][2020-07-15 13:41:29][2020-07-15 13:54:46][   2657443]:  /home/YJY015/element_ste_mag.json finish.
+[root][2020-07-15 13:41:29][2020-07-15 13:56:34][   2657443]:  /home/YJY015/element_ste_sw.json finish.
+[root][2020-07-15 13:41:29][2020-07-15 13:56:34][   2657443]:  /home/YJY015/element_swpc_flare.json finish.
+[root][2020-07-15 13:41:29][2020-07-15 13:56:35][   2657443]:  /home/YJY015/element_tec.json finish.
+[root][2020-07-15 13:59:10][2020-07-15 13:59:10][   2700642]:  /home/YJY015/import/2020-07-06.zip
+[root][2020-07-15 13:59:10][2020-07-15 13:59:11][   2700642]:  data_file_info_json文件不存在,没有导出data_file_info信息,data_file_info_json = 
+[root][2020-07-15 13:59:10][2020-07-15 13:59:11][   2700642]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-15 13:59:10][2020-07-15 13:59:12][   2700642]:  record_alert finish.
+[root][2020-07-15 13:59:10][2020-07-15 13:59:12][   2700642]:  record_report finish.
+[root][2020-07-15 13:59:10][2020-07-15 13:59:37][   2700642]:  /home/YJY015/element_ace_ep.json finish.
+[root][2020-07-15 13:59:10][2020-07-15 14:03:00][   2700642]:  /home/YJY015/element_ace_mag.json finish.
+[root][2020-07-15 13:59:10][2020-07-15 14:03:19][   2700642]:  /home/YJY015/element_ace_sis.json finish.
+[root][2020-07-15 14:03:20][2020-07-15 14:03:20][   2712070]:  /home/YJY015/import/2020-07-06.zip
+[root][2020-07-15 14:03:20][2020-07-15 14:03:20][   2712070]:  data_file_info_json文件不存在,没有导出data_file_info信息,data_file_info_json = 
+[root][2020-07-15 14:03:20][2020-07-15 14:03:20][   2712070]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-15 14:03:20][2020-07-15 14:03:21][   2712070]:  record_alert finish.
+[root][2020-07-15 14:03:20][2020-07-15 14:03:21][   2712070]:  record_report finish.
+[root][2020-07-15 14:03:20][2020-07-15 14:03:41][   2712070]:  /home/YJY015/element_ace_ep.json finish.
+[root][2020-07-15 14:04:56][2020-07-15 14:04:56][   2716319]:  /home/YJY015/import/2020-07-14.zip
+[root][2020-07-15 13:59:10][2020-07-15 14:05:38][   2700642]:  /home/YJY015/element_ace_sw.json finish.
+[root][2020-07-15 13:59:10][2020-07-15 14:05:38][   2700642]:  /home/YJY015/element_ap.json finish.
+[root][2020-07-15 13:59:10][2020-07-15 14:05:40][   2700642]:  /home/YJY015/element_dst.json finish.
+[root][2020-07-15 14:05:47][2020-07-15 14:05:47][   2720776]:  /home/YJY015/import/2020-07-06.zip
+[root][2020-07-15 13:59:10][2020-07-15 14:06:09][   2700642]:  /home/YJY015/element_goes_ie.json finish.
+[root][2020-07-15 13:59:10][2020-07-15 14:06:32][   2700642]:  /home/YJY015/element_goes_ip.json finish.
+[root][2020-07-15 14:03:20][2020-07-15 14:06:44][   2712070]:  /home/YJY015/element_ace_mag.json finish.
+[root][2020-07-15 14:03:20][2020-07-15 14:06:59][   2712070]:  /home/YJY015/element_ace_sis.json finish.
+[root][2020-07-15 14:04:56][2020-07-15 14:08:39][   2716319]:  record_data finish.
+[root][2020-07-15 14:04:56][2020-07-15 14:08:41][   2716319]:  record_product finish.
+[root][2020-07-15 14:04:56][2020-07-15 14:08:42][   2716319]:  record_alert finish.
+[root][2020-07-15 14:04:56][2020-07-15 14:08:42][   2716319]:  record_report finish.
+[root][2020-07-15 13:59:10][2020-07-15 14:08:57][   2700642]:  /home/YJY015/element_goes_mag.json finish.
+[root][2020-07-15 14:03:20][2020-07-15 14:08:57][   2712070]:  /home/YJY015/element_ace_sw.json finish.
+[root][2020-07-15 14:03:20][2020-07-15 14:08:58][   2712070]:  /home/YJY015/element_ap.json finish.
+[root][2020-07-15 14:03:20][2020-07-15 14:08:59][   2712070]:  /home/YJY015/element_dst.json finish.
+[root][2020-07-15 14:04:56][2020-07-15 14:09:00][   2716319]:  /home/YJY015/element_ace_ep.json finish.
+[root][2020-07-15 14:05:47][2020-07-15 14:09:07][   2720776]:  record_data finish.
+[root][2020-07-15 14:05:47][2020-07-15 14:09:08][   2720776]:  record_product finish.
+[root][2020-07-15 14:05:47][2020-07-15 14:09:09][   2720776]:  record_alert finish.
+[root][2020-07-15 14:05:47][2020-07-15 14:09:09][   2720776]:  record_report finish.
+[root][2020-07-15 14:03:20][2020-07-15 14:09:17][   2712070]:  /home/YJY015/element_goes_ie.json finish.
+[root][2020-07-15 14:05:47][2020-07-15 14:09:26][   2720776]:  /home/YJY015/element_ace_ep.json finish.
+[root][2020-07-15 14:03:20][2020-07-15 14:09:37][   2712070]:  /home/YJY015/element_goes_ip.json finish.
+[root][2020-07-15 14:04:56][2020-07-15 14:11:42][   2716319]:  /home/YJY015/element_ace_mag.json finish.
+[root][2020-07-15 13:59:10][2020-07-15 14:11:43][   2700642]:  /home/YJY015/element_goes_xr.json finish.
+[root][2020-07-15 14:04:56][2020-07-15 14:11:59][   2716319]:  /home/YJY015/element_ace_sis.json finish.
+[root][2020-07-15 13:59:10][2020-07-15 14:12:00][   2700642]:  /home/YJY015/element_hpi.json finish.
+[root][2020-07-15 13:59:10][2020-07-15 14:12:01][   2700642]:  /home/YJY015/element_kp.json finish.
+[root][2020-07-15 13:59:10][2020-07-15 14:12:05][   2700642]:  /home/YJY015/element_rad.json finish.
+[root][2020-07-15 14:05:47][2020-07-15 14:12:09][   2720776]:  /home/YJY015/element_ace_mag.json finish.
+[root][2020-07-15 14:03:20][2020-07-15 14:12:19][   2712070]:  /home/YJY015/element_goes_mag.json finish.
+[root][2020-07-15 13:59:10][2020-07-15 14:12:23][   2700642]:  /home/YJY015/element_ste_het.json finish.
+[root][2020-07-15 14:05:47][2020-07-15 14:12:27][   2720776]:  /home/YJY015/element_ace_sis.json finish.
+[root][2020-07-15 14:13:58][2020-07-15 14:13:58][   2769968]:  /home/YJY015/import/2020-07-06.zip
+[root][2020-07-15 14:13:58][2020-07-15 14:13:58][   2769968]:  data_file_info_json文件不存在,没有导出data_file_info信息,data_file_info_json = 
+[root][2020-07-15 14:13:58][2020-07-15 14:13:58][   2769968]:  product_file_info_json文件不存在,没有导出product_file_info信息,product_file_info_json = 
+[root][2020-07-15 14:13:58][2020-07-15 14:13:59][   2769968]:  record_alert finish.
+[root][2020-07-15 14:13:58][2020-07-15 14:13:59][   2769968]:  record_report finish.
+[root][2020-07-15 14:04:56][2020-07-15 14:14:12][   2716319]:  /home/YJY015/element_ace_sw.json finish.
+[root][2020-07-15 14:04:56][2020-07-15 14:14:13][   2716319]:  /home/YJY015/element_ap.json finish.
+[root][2020-07-15 14:04:56][2020-07-15 14:14:14][   2716319]:  /home/YJY015/element_dst.json finish.
+[root][2020-07-15 14:13:58][2020-07-15 14:14:20][   2769968]:  /home/YJY015/element_ace_ep.json finish.
+[root][2020-07-15 14:04:56][2020-07-15 14:14:35][   2716319]:  /home/YJY015/element_goes_ie.json finish.
+[root][2020-07-15 14:05:47][2020-07-15 14:14:42][   2720776]:  /home/YJY015/element_ace_sw.json finish.
+[root][2020-07-15 14:05:47][2020-07-15 14:14:42][   2720776]:  /home/YJY015/element_ap.json finish.
+[root][2020-07-15 14:05:47][2020-07-15 14:14:43][   2720776]:  /home/YJY015/element_dst.json finish.
+[root][2020-07-15 13:59:10][2020-07-15 14:14:46][   2700642]:  /home/YJY015/element_ste_mag.json finish.
+[root][2020-07-15 14:04:56][2020-07-15 14:14:55][   2716319]:  /home/YJY015/element_goes_ip.json finish.
+[root][2020-07-15 14:05:47][2020-07-15 14:15:05][   2720776]:  /home/YJY015/element_goes_ie.json finish.
+[root][2020-07-15 14:03:20][2020-07-15 14:15:14][   2712070]:  /home/YJY015/element_goes_xr.json finish.
+[root][2020-07-15 14:03:20][2020-07-15 14:15:37][   2712070]:  /home/YJY015/element_hpi.json finish.
+[root][2020-07-15 14:05:47][2020-07-15 14:15:37][   2720776]:  /home/YJY015/element_goes_ip.json finish.
+[root][2020-07-15 14:03:20][2020-07-15 14:15:38][   2712070]:  /home/YJY015/element_kp.json finish.
+[root][2020-07-15 14:03:20][2020-07-15 14:15:43][   2712070]:  /home/YJY015/element_rad.json finish.
+[root][2020-07-15 14:03:20][2020-07-15 14:16:04][   2712070]:  /home/YJY015/element_ste_het.json finish.
+[root][2020-07-15 13:59:10][2020-07-15 14:17:05][   2700642]:  /home/YJY015/element_ste_sw.json finish.
+[root][2020-07-15 13:59:10][2020-07-15 14:17:05][   2700642]:  /home/YJY015/element_swpc_flare.json finish.
+[root][2020-07-15 13:59:10][2020-07-15 14:17:06][   2700642]:  /home/YJY015/element_tec.json finish.
+[root][2020-07-15 14:13:58][2020-07-15 14:17:35][   2769968]:  /home/YJY015/element_ace_mag.json finish.
+[root][2020-07-15 14:13:58][2020-07-15 14:17:52][   2769968]:  /home/YJY015/element_ace_sis.json finish.
+[root][2020-07-15 14:04:56][2020-07-15 14:17:53][   2716319]:  /home/YJY015/element_goes_mag.json finish.
+[root][2020-07-15 14:03:20][2020-07-15 14:18:03][   2712070]:  /home/YJY015/element_ste_mag.json finish.
+[root][2020-07-15 14:05:47][2020-07-15 14:18:18][   2720776]:  /home/YJY015/element_goes_mag.json finish.
+[root][2020-07-15 14:03:20][2020-07-15 14:19:43][   2712070]:  /home/YJY015/element_ste_sw.json finish.
+[root][2020-07-15 14:03:20][2020-07-15 14:19:43][   2712070]:  /home/YJY015/element_swpc_flare.json finish.
+[root][2020-07-15 14:03:20][2020-07-15 14:19:44][   2712070]:  /home/YJY015/element_tec.json finish.
+[root][2020-07-15 14:13:58][2020-07-15 14:20:00][   2769968]:  /home/YJY015/element_ace_sw.json finish.
+[root][2020-07-15 14:13:58][2020-07-15 14:20:00][   2769968]:  /home/YJY015/element_ap.json finish.
+[root][2020-07-15 14:13:58][2020-07-15 14:20:02][   2769968]:  /home/YJY015/element_dst.json finish.
+[root][2020-07-15 14:04:56][2020-07-15 14:20:20][   2716319]:  /home/YJY015/element_goes_xr.json finish.
+[root][2020-07-15 14:13:58][2020-07-15 14:20:24][   2769968]:  /home/YJY015/element_goes_ie.json finish.
+[root][2020-07-15 14:04:56][2020-07-15 14:20:38][   2716319]:  /home/YJY015/element_hpi.json finish.
+[root][2020-07-15 14:04:56][2020-07-15 14:20:39][   2716319]:  /home/YJY015/element_kp.json finish.
+[root][2020-07-15 14:04:56][2020-07-15 14:20:43][   2716319]:  /home/YJY015/element_rad.json finish.
+[root][2020-07-15 14:13:58][2020-07-15 14:20:45][   2769968]:  /home/YJY015/element_goes_ip.json finish.
+[root][2020-07-15 14:05:47][2020-07-15 14:20:47][   2720776]:  /home/YJY015/element_goes_xr.json finish.
+[root][2020-07-15 14:04:56][2020-07-15 14:21:00][   2716319]:  /home/YJY015/element_ste_het.json finish.
+[root][2020-07-15 14:05:47][2020-07-15 14:21:06][   2720776]:  /home/YJY015/element_hpi.json finish.
+[root][2020-07-15 14:05:47][2020-07-15 14:21:07][   2720776]:  /home/YJY015/element_kp.json finish.
+[root][2020-07-15 14:05:47][2020-07-15 14:21:11][   2720776]:  /home/YJY015/element_rad.json finish.
+[root][2020-07-15 14:05:47][2020-07-15 14:21:28][   2720776]:  /home/YJY015/element_ste_het.json finish.
+[root][2020-07-15 14:04:56][2020-07-15 14:22:59][   2716319]:  /home/YJY015/element_ste_mag.json finish.
+[root][2020-07-15 14:13:58][2020-07-15 14:23:25][   2769968]:  /home/YJY015/element_goes_mag.json finish.
+[root][2020-07-15 14:05:47][2020-07-15 14:23:27][   2720776]:  /home/YJY015/element_ste_mag.json finish.
+[root][2020-07-15 14:04:56][2020-07-15 14:24:46][   2716319]:  /home/YJY015/element_ste_sw.json finish.
+[root][2020-07-15 14:05:47][2020-07-15 14:25:14][   2720776]:  /home/YJY015/element_ste_sw.json finish.
+[root][2020-07-15 14:13:58][2020-07-15 14:26:07][   2769968]:  /home/YJY015/element_goes_xr.json finish.
+[root][2020-07-15 14:13:58][2020-07-15 14:26:26][   2769968]:  /home/YJY015/element_hpi.json finish.
+[root][2020-07-15 14:13:58][2020-07-15 14:26:27][   2769968]:  /home/YJY015/element_kp.json finish.
+[root][2020-07-15 14:13:58][2020-07-15 14:26:31][   2769968]:  /home/YJY015/element_rad.json finish.
+[root][2020-07-15 14:13:58][2020-07-15 14:26:47][   2769968]:  /home/YJY015/element_ste_het.json finish.
+[root][2020-07-15 14:13:58][2020-07-15 14:28:42][   2769968]:  /home/YJY015/element_ste_mag.json finish.
+[root][2020-07-15 14:13:58][2020-07-15 14:30:37][   2769968]:  /home/YJY015/element_ste_sw.json finish.
+[root][2020-07-15 14:13:58][2020-07-15 14:30:37][   2769968]:  /home/YJY015/element_swpc_flare.json finish.
+[root][2020-07-15 14:13:58][2020-07-15 14:30:38][   2769968]:  /home/YJY015/element_tec.json finish.
+[root][2020-07-15 17:01:50][2020-07-15 17:01:50][   2969210]:  /home/YJY015/import/2020-07-14.zip
+[root][2020-07-15 17:01:50][2020-07-15 17:02:22][   2969210]:  record_data finish.
+[root][2020-07-15 17:01:50][2020-07-15 17:02:22][   2969210]:  record_product finish.
+[root][2020-07-15 17:01:50][2020-07-15 17:02:22][   2969210]:  record_alert finish.
+[root][2020-07-15 17:01:50][2020-07-15 17:02:22][   2969210]:  record_report finish.
+[root][2020-07-15 17:01:50][2020-07-15 17:02:42][   2969210]:  /home/YJY015/json/2020-07-14/element_ace_ep.json finish.
+[root][2020-07-15 17:23:28][2020-07-15 17:23:28][   2997546]:  /home/YJY015/import/2020-07-14.zip
+[root][2020-07-15 17:23:28][2020-07-15 17:23:59][   2997546]:  record_data finish.
+[root][2020-07-15 17:23:28][2020-07-15 17:23:59][   2997546]:  record_product finish.
+[root][2020-07-15 17:23:28][2020-07-15 17:23:59][   2997546]:  record_alert finish.
+[root][2020-07-15 17:23:28][2020-07-15 17:23:59][   2997546]:  record_report finish.
+[root][2020-07-15 17:23:28][2020-07-15 17:24:19][   2997546]:  /home/YJY015/json/2020-07-14/element_ace_ep.json finish.
+[root][2020-07-15 17:23:28][2020-07-15 17:29:20][   2997546]:  /home/YJY015/json/2020-07-14/element_ace_mag.json finish.
+[root][2020-07-15 17:23:28][2020-07-15 17:29:39][   2997546]:  /home/YJY015/json/2020-07-14/element_ace_sis.json finish.
+[root][2020-07-15 17:23:28][2020-07-15 17:31:51][   2997546]:  /home/YJY015/json/2020-07-14/element_ace_sw.json finish.
+[root][2020-07-15 17:23:28][2020-07-15 17:31:51][   2997546]:  /home/YJY015/json/2020-07-14/element_ap.json finish.
+[root][2020-07-15 17:23:28][2020-07-15 17:31:52][   2997546]:  /home/YJY015/json/2020-07-14/element_dst.json finish.
+[root][2020-07-15 17:23:28][2020-07-15 17:33:04][   2997546]:  /home/YJY015/json/2020-07-14/element_goes_ie.json finish.
+[root][2020-07-15 17:23:28][2020-07-15 17:33:46][   2997546]:  /home/YJY015/json/2020-07-14/element_goes_ip.json finish.
+[root][2020-07-15 17:23:28][2020-07-15 17:38:41][   2997546]:  /home/YJY015/json/2020-07-14/element_goes_mag.json finish.
+[root][2020-07-15 17:23:28][2020-07-15 17:43:35][   2997546]:  /home/YJY015/json/2020-07-14/element_goes_xr.json finish.
+[root][2020-07-15 17:23:28][2020-07-15 17:43:53][   2997546]:  /home/YJY015/json/2020-07-14/element_hpi.json finish.
+[root][2020-07-15 17:23:28][2020-07-15 17:43:54][   2997546]:  /home/YJY015/json/2020-07-14/element_kp.json finish.
+[root][2020-07-15 17:23:28][2020-07-15 17:43:58][   2997546]:  /home/YJY015/json/2020-07-14/element_rad.json finish.
+[root][2020-07-15 17:23:28][2020-07-15 17:44:16][   2997546]:  /home/YJY015/json/2020-07-14/element_ste_het.json finish.
+[root][2020-07-15 17:23:28][2020-07-15 17:46:36][   2997546]:  /home/YJY015/json/2020-07-14/element_ste_mag.json finish.
+[root][2020-07-15 17:23:28][2020-07-15 17:48:29][   2997546]:  /home/YJY015/json/2020-07-14/element_ste_sw.json finish.
+[root][2020-07-15 17:23:28][2020-07-15 17:48:30][   2997546]:  /home/YJY015/json/2020-07-14/element_swpc_flare.json finish.
+[root][2020-07-15 17:23:28][2020-07-15 17:48:30][   2997546]:  /home/YJY015/json/2020-07-14/element_tec.json finish.
+[root][2020-07-15 17:23:28][2020-07-15 17:48:30][   2997546]:  /home/YJY015/json/2020-07-14/event_configuration.json finish.
+[root][2020-07-15 18:36:21][2020-07-15 18:36:21][   3101546]:  /home/YJY015/import/2020-07-14.zip
+[root][2020-07-15 18:36:21][2020-07-15 18:36:51][   3101546]:  record_data finish.
+[root][2020-07-15 18:36:21][2020-07-15 18:36:51][   3101546]:  record_product finish.
+[root][2020-07-15 18:36:21][2020-07-15 18:36:51][   3101546]:  record_alert finish.
+[root][2020-07-15 18:36:21][2020-07-15 18:36:51][   3101546]:  record_report finish.
+[root][2020-07-15 18:36:21][2020-07-15 18:36:51][   3101546]:  /home/YJY015/json/2020-07-14/element_ace_ep.json finish.
+[root][2020-07-15 18:36:21][2020-07-15 18:36:51][   3101546]:  /home/YJY015/json/2020-07-14/element_ace_mag.json finish.
+[root][2020-07-15 18:36:21][2020-07-15 18:36:51][   3101546]:  /home/YJY015/json/2020-07-14/element_ace_sis.json finish.
+[root][2020-07-15 18:36:21][2020-07-15 18:36:51][   3101546]:  /home/YJY015/json/2020-07-14/element_ace_sw.json finish.
+[root][2020-07-15 18:36:21][2020-07-15 18:36:51][   3101546]:  /home/YJY015/json/2020-07-14/element_ap.json finish.
+[root][2020-07-15 18:36:21][2020-07-15 18:36:51][   3101546]:  /home/YJY015/json/2020-07-14/element_dst.json finish.
+[root][2020-07-15 18:36:21][2020-07-15 18:36:51][   3101546]:  /home/YJY015/json/2020-07-14/element_goes_ie.json finish.
+[root][2020-07-15 18:36:21][2020-07-15 18:36:51][   3101546]:  /home/YJY015/json/2020-07-14/element_goes_ip.json finish.
+[root][2020-07-15 18:36:21][2020-07-15 18:36:51][   3101546]:  /home/YJY015/json/2020-07-14/element_goes_mag.json finish.
+[root][2020-07-15 18:36:21][2020-07-15 18:36:51][   3101546]:  /home/YJY015/json/2020-07-14/element_goes_xr.json finish.
+[root][2020-07-15 18:36:21][2020-07-15 18:36:51][   3101546]:  /home/YJY015/json/2020-07-14/element_hpi.json finish.
+[root][2020-07-15 18:36:21][2020-07-15 18:36:51][   3101546]:  /home/YJY015/json/2020-07-14/element_kp.json finish.
+[root][2020-07-15 18:36:21][2020-07-15 18:36:51][   3101546]:  /home/YJY015/json/2020-07-14/element_rad.json finish.
+[root][2020-07-15 18:36:21][2020-07-15 18:36:51][   3101546]:  /home/YJY015/json/2020-07-14/element_ste_het.json finish.
+[root][2020-07-15 18:36:21][2020-07-15 18:36:51][   3101546]:  /home/YJY015/json/2020-07-14/element_ste_mag.json finish.
+[root][2020-07-15 18:36:21][2020-07-15 18:36:51][   3101546]:  /home/YJY015/json/2020-07-14/element_ste_sw.json finish.
+[root][2020-07-15 18:36:21][2020-07-15 18:36:51][   3101546]:  /home/YJY015/json/2020-07-14/element_swpc_flare.json finish.
+[root][2020-07-15 18:36:21][2020-07-15 18:36:51][   3101546]:  /home/YJY015/json/2020-07-14/element_tec.json finish.
+[root][2020-07-15 18:36:21][2020-07-15 18:36:51][   3101546]:  /home/YJY015/json/2020-07-14/event_configuration.json finish.

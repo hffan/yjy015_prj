@@ -1,0 +1,234 @@
+[root][2020-07-02 13:40:12][2020-07-02 13:40:13][   2705430]:  ret.returncode = 1
+[root][2020-07-02 13:40:12][2020-07-02 13:40:13][   2705430]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 37, in <module>
+    from element_opt.element_record import *            ##入库
+  File "/home/YJY015/code/element_opt/element_record.py", line 69
+    for EFgt2d0M in EFgt2d0Ms：
+                             ^
+SyntaxError: invalid character in identifier
+
+[root][2020-07-02 13:40:13][2020-07-02 13:40:14][   2705430]:  ret.returncode = 1
+[root][2020-07-02 13:40:13][2020-07-02 13:40:14][   2705430]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 37, in <module>
+    from element_opt.element_record import *            ##入库
+  File "/home/YJY015/code/element_opt/element_record.py", line 69
+    for EFgt2d0M in EFgt2d0Ms：
+                             ^
+SyntaxError: invalid character in identifier
+
+[root][2020-07-02 13:40:14][2020-07-02 13:40:15][   2705430]:  ret.returncode = 1
+[root][2020-07-02 13:40:14][2020-07-02 13:40:15][   2705430]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 37, in <module>
+    from element_opt.element_record import *            ##入库
+  File "/home/YJY015/code/element_opt/element_record.py", line 69
+    for EFgt2d0M in EFgt2d0Ms：
+                             ^
+SyntaxError: invalid character in identifier
+
+[root][2020-07-02 13:40:15][2020-07-02 13:40:16][   2705430]:  ret.returncode = 1
+[root][2020-07-02 13:40:15][2020-07-02 13:40:16][   2705430]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 37, in <module>
+    from element_opt.element_record import *            ##入库
+  File "/home/YJY015/code/element_opt/element_record.py", line 69
+    for EFgt2d0M in EFgt2d0Ms：
+                             ^
+SyntaxError: invalid character in identifier
+
+[root][2020-07-02 13:40:16][2020-07-02 13:40:17][   2705430]:  ret.returncode = 1
+[root][2020-07-02 13:40:16][2020-07-02 13:40:17][   2705430]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 37, in <module>
+    from element_opt.element_record import *            ##入库
+  File "/home/YJY015/code/element_opt/element_record.py", line 69
+    for EFgt2d0M in EFgt2d0Ms：
+                             ^
+SyntaxError: invalid character in identifier
+
+[root][2020-07-02 13:40:17][2020-07-02 13:40:18][   2705430]:  ret.returncode = 1
+[root][2020-07-02 13:40:17][2020-07-02 13:40:18][   2705430]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 37, in <module>
+    from element_opt.element_record import *            ##入库
+  File "/home/YJY015/code/element_opt/element_record.py", line 69
+    for EFgt2d0M in EFgt2d0Ms：
+                             ^
+SyntaxError: invalid character in identifier
+
+[root][2020-07-02 13:40:18][2020-07-02 13:40:19][   2705430]:  ret.returncode = 1
+[root][2020-07-02 13:40:18][2020-07-02 13:40:19][   2705430]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 37, in <module>
+    from element_opt.element_record import *            ##入库
+  File "/home/YJY015/code/element_opt/element_record.py", line 69
+    for EFgt2d0M in EFgt2d0Ms：
+                             ^
+SyntaxError: invalid character in identifier
+
+[root][2020-07-02 13:52:46][2020-07-02 13:52:46][   2706348]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 69, in download_wget_manually
+    wg.start(starttime,endtime) ####传入时间，与系统时间比较，如果大于系统时间(有bug,系统时间错误，就是bug)
+  File "/home/YJY015/code/file_info/wget_download.py", line 780, in start
+    DOY=self.get_DOY(int(yyyy),int(mm),int(dd))
+ValueError: invalid literal for int() with base 10: '6-'
+
+[root][2020-07-02 13:52:46][2020-07-02 13:52:46][   2706348]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 69, in download_wget_manually
+    wg.start(starttime,endtime) ####传入时间，与系统时间比较，如果大于系统时间(有bug,系统时间错误，就是bug)
+  File "/home/YJY015/code/file_info/wget_download.py", line 780, in start
+    DOY=self.get_DOY(int(yyyy),int(mm),int(dd))
+ValueError: invalid literal for int() with base 10: '6-'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 170, in <module>
+    download_wget_manually(category_abbr_en,starttime,endtime,searchinfos)
+  File "/home/YJY015/code/download.py", line 71, in download_wget_manually
+    raise Exception(traceback.format_exc())
+Exception: Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 69, in download_wget_manually
+    wg.start(starttime,endtime) ####传入时间，与系统时间比较，如果大于系统时间(有bug,系统时间错误，就是bug)
+  File "/home/YJY015/code/file_info/wget_download.py", line 780, in start
+    DOY=self.get_DOY(int(yyyy),int(mm),int(dd))
+ValueError: invalid literal for int() with base 10: '6-'
+
+
+[root][2020-07-02 13:53:38][2020-07-02 13:53:48][   2706405]:  time data '2020-07-01 05:55:00' does not match format '%Y%m%d %H:%M:%S'
+[root][2020-07-02 13:53:38][2020-07-02 13:53:48][   2706405]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 299, in <module>
+    el_re.record(table_name,starttime,dict_data1,dict_data2)
+  File "/home/YJY015/code/element_opt/element_record.py", line 850, in record
+    self.record_dicts(table_name,dict_data1,dict_data2)
+  File "/home/YJY015/code/element_opt/element_record.py", line 814, in record_dicts
+    config_infos,condition_infos = self.analysis_dicts(table_name[0],key,dict_data1[key])
+  File "/home/YJY015/code/element_opt/element_record.py", line 756, in analysis_dicts
+    self.cal_IEFday(utc_time)
+  File "/home/YJY015/code/element_opt/element_record.py", line 48, in cal_IEFday
+    utc_time_24h = (datetime.datetime.strptime(utc_time, "%Y%m%d %H:%M:%S") - datetime.timedelta(days=1)).strftime("%Y%m%d %H:%M:%S")
+  File "/root/anaconda3/lib/python3.7/_strptime.py", line 577, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/root/anaconda3/lib/python3.7/_strptime.py", line 359, in _strptime
+    (data_string, format))
+ValueError: time data '2020-07-01 05:55:00' does not match format '%Y%m%d %H:%M:%S'
+
+[root][2020-07-02 13:54:31][2020-07-02 13:54:38][   2706464]:  unsupported operand type(s) for +: 'int' and 'str'
+[root][2020-07-02 13:54:31][2020-07-02 13:54:38][   2706464]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 299, in <module>
+    el_re.record(table_name,starttime,dict_data1,dict_data2)
+  File "/home/YJY015/code/element_opt/element_record.py", line 850, in record
+    self.record_dicts(table_name,dict_data1,dict_data2)
+  File "/home/YJY015/code/element_opt/element_record.py", line 814, in record_dicts
+    config_infos,condition_infos = self.analysis_dicts(table_name[0],key,dict_data1[key])
+  File "/home/YJY015/code/element_opt/element_record.py", line 756, in analysis_dicts
+    self.cal_IEFday(utc_time)
+  File "/home/YJY015/code/element_opt/element_record.py", line 70, in cal_IEFday
+    IEFday=IEFday+EFgt2d0M*(5*60)
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+
+[root][2020-07-02 13:55:02][2020-07-02 13:55:10][   2706543]:  unsupported operand type(s) for +: 'int' and 'str'
+[root][2020-07-02 13:55:02][2020-07-02 13:55:10][   2706543]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 299, in <module>
+    el_re.record(table_name,starttime,dict_data1,dict_data2)
+  File "/home/YJY015/code/element_opt/element_record.py", line 850, in record
+    self.record_dicts(table_name,dict_data1,dict_data2)
+  File "/home/YJY015/code/element_opt/element_record.py", line 814, in record_dicts
+    config_infos,condition_infos = self.analysis_dicts(table_name[0],key,dict_data1[key])
+  File "/home/YJY015/code/element_opt/element_record.py", line 756, in analysis_dicts
+    self.cal_IEFday(utc_time)
+  File "/home/YJY015/code/element_opt/element_record.py", line 70, in cal_IEFday
+    IEFday=IEFday+EFgt2d0M*(5*60)
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+
+[root][2020-07-02 13:55:16][2020-07-02 13:55:22][   2708215]:  'NoneType' object is not iterable
+[root][2020-07-02 13:55:16][2020-07-02 13:55:22][   2708215]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 299, in <module>
+    el_re.record(table_name,starttime,dict_data1,dict_data2)
+  File "/home/YJY015/code/element_opt/element_record.py", line 850, in record
+    self.record_dicts(table_name,dict_data1,dict_data2)
+  File "/home/YJY015/code/element_opt/element_record.py", line 814, in record_dicts
+    config_infos,condition_infos = self.analysis_dicts(table_name[0],key,dict_data1[key])
+  File "/home/YJY015/code/element_opt/element_record.py", line 756, in analysis_dicts
+    self.cal_IEFday(utc_time)
+  File "/home/YJY015/code/element_opt/element_record.py", line 75, in cal_IEFday
+    searchinfos=pga.search_db_table_usercmd(db_name,sqlcmd)
+  File "/home/YJY015/code/db/postgres_archive.py", line 229, in search_db_table_usercmd
+    coloumns = [row[0] for row in cursor.description]
+TypeError: 'NoneType' object is not iterable
+
+[root][2020-07-02 14:00:20][2020-07-02 14:00:32][   2710592]:  'NoneType' object is not iterable
+[root][2020-07-02 14:00:20][2020-07-02 14:00:32][   2710592]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 299, in <module>
+    el_re.record(table_name,starttime,dict_data1,dict_data2)
+  File "/home/YJY015/code/element_opt/element_record.py", line 853, in record
+    self.record_dicts(table_name,dict_data1,dict_data2)
+  File "/home/YJY015/code/element_opt/element_record.py", line 817, in record_dicts
+    config_infos,condition_infos = self.analysis_dicts(table_name[0],key,dict_data1[key])
+  File "/home/YJY015/code/element_opt/element_record.py", line 759, in analysis_dicts
+    self.cal_IEFday(utc_time)
+  File "/home/YJY015/code/element_opt/element_record.py", line 75, in cal_IEFday
+    searchinfos=pga.search_db_table_usercmd(db_name,sqlcmd)
+  File "/home/YJY015/code/db/postgres_archive.py", line 229, in search_db_table_usercmd
+    coloumns = [row[0] for row in cursor.description]
+TypeError: 'NoneType' object is not iterable
+
+[root][2020-07-02 14:05:02][2020-07-02 14:05:09][   2715144]:  'NoneType' object is not iterable
+[root][2020-07-02 14:05:02][2020-07-02 14:05:09][   2715144]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 299, in <module>
+    el_re.record(table_name,starttime,dict_data1,dict_data2)
+  File "/home/YJY015/code/element_opt/element_record.py", line 853, in record
+    self.record_dicts(table_name,dict_data1,dict_data2)
+  File "/home/YJY015/code/element_opt/element_record.py", line 817, in record_dicts
+    config_infos,condition_infos = self.analysis_dicts(table_name[0],key,dict_data1[key])
+  File "/home/YJY015/code/element_opt/element_record.py", line 759, in analysis_dicts
+    self.cal_IEFday(utc_time)
+  File "/home/YJY015/code/element_opt/element_record.py", line 75, in cal_IEFday
+    searchinfos=pga.search_db_table_usercmd(db_name,sqlcmd)
+  File "/home/YJY015/code/db/postgres_archive.py", line 229, in search_db_table_usercmd
+    coloumns = [row[0] for row in cursor.description]
+TypeError: 'NoneType' object is not iterable
+
+[root][2020-07-02 14:10:02][2020-07-02 14:10:10][   2718842]:  'NoneType' object is not iterable
+[root][2020-07-02 14:10:02][2020-07-02 14:10:10][   2718842]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 299, in <module>
+    el_re.record(table_name,starttime,dict_data1,dict_data2)
+  File "/home/YJY015/code/element_opt/element_record.py", line 853, in record
+    self.record_dicts(table_name,dict_data1,dict_data2)
+  File "/home/YJY015/code/element_opt/element_record.py", line 817, in record_dicts
+    config_infos,condition_infos = self.analysis_dicts(table_name[0],key,dict_data1[key])
+  File "/home/YJY015/code/element_opt/element_record.py", line 759, in analysis_dicts
+    self.cal_IEFday(utc_time)
+  File "/home/YJY015/code/element_opt/element_record.py", line 75, in cal_IEFday
+    searchinfos=pga.search_db_table_usercmd(db_name,sqlcmd)
+  File "/home/YJY015/code/db/postgres_archive.py", line 229, in search_db_table_usercmd
+    coloumns = [row[0] for row in cursor.description]
+TypeError: 'NoneType' object is not iterable
+
+[root][2020-07-02 14:12:57][2020-07-02 14:13:08][   2722350]:  'NoneType' object is not iterable
+[root][2020-07-02 14:12:57][2020-07-02 14:13:08][   2722350]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 299, in <module>
+    el_re.record(table_name,starttime,dict_data1,dict_data2)
+  File "/home/YJY015/code/element_opt/element_record.py", line 856, in record
+    self.record_dicts(table_name,dict_data1,dict_data2)
+  File "/home/YJY015/code/element_opt/element_record.py", line 820, in record_dicts
+    config_infos,condition_infos = self.analysis_dicts(table_name[0],key,dict_data1[key])
+  File "/home/YJY015/code/element_opt/element_record.py", line 762, in analysis_dicts
+    self.cal_IEFday(utc_time)
+  File "/home/YJY015/code/element_opt/element_record.py", line 78, in cal_IEFday
+    searchinfos=pga.search_db_table_usercmd(db_name,sqlcmd)
+  File "/home/YJY015/code/db/postgres_archive.py", line 229, in search_db_table_usercmd
+    coloumns = [row[0] for row in cursor.description]
+TypeError: 'NoneType' object is not iterable
+
+[root][2020-07-02 14:15:07][2020-07-02 14:16:16][   2722529]:  'NoneType' object is not iterable
+[root][2020-07-02 14:15:07][2020-07-02 14:16:16][   2722529]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 299, in <module>
+    el_re.record(table_name,starttime,dict_data1,dict_data2)
+  File "/home/YJY015/code/element_opt/element_record.py", line 856, in record
+    self.record_dicts(table_name,dict_data1,dict_data2)
+  File "/home/YJY015/code/element_opt/element_record.py", line 820, in record_dicts
+    config_infos,condition_infos = self.analysis_dicts(table_name[0],key,dict_data1[key])
+  File "/home/YJY015/code/element_opt/element_record.py", line 762, in analysis_dicts
+    self.cal_IEFday(utc_time)
+  File "/home/YJY015/code/element_opt/element_record.py", line 78, in cal_IEFday
+    searchinfos=pga.insert_db_table_usercmd(db_name,sqlcmd)
+  File "/home/YJY015/code/db/postgres_archive.py", line 229, in search_db_table_usercmd
+    coloumns = [row[0] for row in cursor.description]
+TypeError: 'NoneType' object is not iterable
+

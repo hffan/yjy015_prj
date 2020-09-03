@@ -1,0 +1,6 @@
+[root][2020-06-20 14:50:01][2020-06-20 14:50:09][   4120386]:  list indices must be integers or slices, not str
+[root][2020-06-20 14:50:01][2020-06-20 14:50:09][   4120386]:  Traceback (most recent call last):
+  File "/home/YJY015/code/download.py", line 205, in <module>
+    element_extract_flag = searchinfos['element_extract_flag']#查找配置信息表里，某数据对应的要素提取标识
+TypeError: list indices must be integers or slices, not str
+
